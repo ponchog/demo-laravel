@@ -742,7 +742,15 @@
 												
 												<!-- header dropdown buttons -->
 												<div class="header-dropdown-buttons hidden-xs ">
-													<div class="btn-group dropdown">
+													<ul class="social-links circle animated-effect-1" style="margin-top: 0px;">
+														<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+														<li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
+														<li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
+														<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
+														<li class="xing"><a target="_blank" href="http://www.xing.com"><i class="fa fa-xing"></i></a></li>
+													</ul>
+
+													{{-- <div class="btn-group dropdown">
 														<button type="button" class="btn dropdown-toggle" data-toggle="dropdown"><i class="icon-search"></i></button>
 														<ul class="dropdown-menu dropdown-menu-right dropdown-animation">
 															<li>
@@ -754,7 +762,8 @@
 																</form>
 															</li>
 														</ul>
-													</div>
+													</div> --}}
+
 													{{-- <div class="btn-group dropdown">
 														<button type="button" class="btn dropdown-toggle" data-toggle="dropdown"><i class="icon-basket-1"></i><span class="cart-count default-bg">8</span></button>
 														<ul class="dropdown-menu dropdown-menu-right dropdown-animation cart">
@@ -968,7 +977,7 @@
 
 			{{-- FOOTER DEFAULT START--}}
 
-			{{-- <!-- footer start (Add "dark" class to #footer in order to enable dark footer) -->
+			<!-- footer start (Add "dark" class to #footer in order to enable dark footer) -->
 			<!-- ================ -->
 			<footer id="footer" class="clearfix ">
 
@@ -978,9 +987,11 @@
 					<div class="container">
 						<div class="footer-inner">
 							<div class="row">
-								<div class="col-md-3">
+								<div class="col-md-6">
 									<div class="footer-content">
-										<div class="logo-footer"><img id="logo-footer" src="images/logo_light_blue.png" alt=""></div>
+										{{-- <div class="logo-footer"><img id="logo-footer" src="images/logo_light_blue.png" alt=""></div> --}}
+										<div class="logo-footer"><span style="font-size:24px;">Arte International</span></div>
+										<br>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus illo vel dolorum soluta consectetur doloribus sit. Delectus non tenetur odit dicta vitae debitis suscipit doloribus. Ipsa, aut voluptas quaerat... <a href="page-about.html">Learn More<i class="fa fa-long-arrow-right pl-5"></i></a></p>
 										<div class="separator-2"></div>
 										<nav>
@@ -993,7 +1004,7 @@
 										</nav>
 									</div>
 								</div>
-								<div class="col-md-3">
+								{{-- <div class="col-md-3">
 									<div class="footer-content">
 										<h2 class="title">Latest From Blog</h2>
 										<div class="separator-2"></div>
@@ -1111,8 +1122,8 @@
 											<a href="portfolio-grid-2-3-col.html" class="link-dark"><i class="fa fa-plus-circle pl-5 pr-5"></i>More</a>	
 										</div>
 									</div>
-								</div>
-								<div class="col-md-3">
+								</div> --}}
+								<div class="col-md-6">
 									<div class="footer-content">
 										<h2 class="title">Find Us</h2>
 										<div class="separator-2"></div>
@@ -1154,7 +1165,7 @@
 				<!-- .subfooter end -->
 
 			</footer>
-			<!-- footer end --> --}}
+			<!-- footer end -->
 
 			{{-- FOOTER DEFAULT END --}}
 			

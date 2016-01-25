@@ -92,10 +92,13 @@
 
 		</div>
 	</div>
+	<br>
+	<br>
+	<br>
 
 	<!-- section start -->
 	<!-- ================ -->
-	<div class="light-gray-bg pv-20 section mt-20">
+	{{-- <div class="light-gray-bg pv-20 section mt-20">
 		<div class="container">
 			<h4 class="mb-20">Our <strong>Team</strong></h4>
 			<div class="row grid-space-10">
@@ -181,7 +184,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> --}}
 	<!-- section end -->
 </section>
 <!-- main-container end -->

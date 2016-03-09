@@ -41,7 +41,7 @@
 			<!-- main start -->
 			<!-- ================ -->
 			<div class="main col-md-12">
-				<h3 class="title">Who <strong>We Are</strong></h3>
+				<h3 class="title"><strong>Our Mission</strong></h3>
 				<div class="separator-2"></div>
 				<div class="row">
 					<div class="col-md-6">
@@ -56,35 +56,37 @@
 						</ul> --}}
 					</div>
 					<div class="col-md-6">
-						<div class="owl-carousel content-slider-with-controls">
+						<img src="images/artists/ernesto/1.gif" alt="" style="max-height: 350px; display:inline;">
+						
+						<!-- <div class="owl-carousel content-slider-with-controls">						
 							<div class="overlay-container overlay-visible">
-								<img src="images/page-about-1.jpg" alt="">
+								<img src="images/artists/ernesto/1.gif" alt="" style="max-height: 350px; display:inline;">
 								<div class="overlay-bottom hidden-xs">
 									<div class="text">
-										<h3 class="title">We Can Do It</h3>
+										<h3 class="title">Text</h3>
 									</div>
 								</div>
 								<a href="images/page-about-1.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
 							</div>
 							<div class="overlay-container overlay-visible">
-								<img src="images/page-about-2.jpg" alt="">
+								<img src="images/artists/ernesto/3.gif" alt="" style="max-height: 350px; display:inline;">
 								<div class="overlay-bottom hidden-xs">
 									<div class="text">
-										<h3 class="title">You Can Trust Us</h3>
+										<h3 class="title">Text</h3>
 									</div>
 								</div>
 								<a href="images/page-about-2.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
 							</div>
 							<div class="overlay-container overlay-visible">
-								<img src="images/page-about-3.jpg" alt="">
+								<img src="images/artists/cinthia/5.jpg" alt="" style="max-height: 350px; display:inline;">
 								<div class="overlay-bottom hidden-xs">
 									<div class="text">
-										<h3 class="title">We Love What We Do</h3>
+										<h3 class="title">Text</h3>
 									</div>
 								</div>
 								<a href="images/page-about-3.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>

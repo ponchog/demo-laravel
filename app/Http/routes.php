@@ -23,6 +23,20 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('/artists/ernesto-ibanez', function(){
+	return view('artist');
+});
+
+Route::get('/artist', function(){
+	return view('artist');
+});
+
+Route::get('/artist2', function(){
+	return view('artist2');
+});
+
+
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes

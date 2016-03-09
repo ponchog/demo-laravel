@@ -262,142 +262,112 @@
 				<ul class="slides">
 					<!-- slide 2 start -->
 					<!-- ================ -->
-					<li data-transition="random" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">
-					
-					<!-- main image -->
-					<img src="images/artwork/6.jpg" alt="slidebg2" data-bgposition="center top"  data-bgrepeat="no-repeat" data-bgfit="cover">
+					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
+						<!-- main image -->							
+						<img src="images/artists/cinthia/5.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">						
 
-					<!-- Transparent Background -->
-					<div class="tp-caption dark-translucent-bg"
-						data-x="center"
-						data-y="bottom"
-						data-speed="600"
-						data-easing="easeOutQuad"
-						data-start="0">
-					</div>
+						<!-- LAYER NR. 1 -->
+						<div class="tp-caption sft fadeout large_white"
+							data-x="left"
+							data-y="450"
+							data-speed="500"
+							data-easing="easeOutQuad"
+							data-start="1000"><a href="/artist"><span style="font-size:44px;"><b>Cinthia Gonzalez</b></span> <br>Caballero Sol</a>
+						</div>
 
-					<!-- LAYER NR. 1 -->
-					<div class="tp-caption sft fadeout large_white"
-						data-x="left"
-						data-y="50"
-						data-speed="500"
-						data-easing="easeOutQuad"
-						data-start="1000"><span style="font-size:44px;"><b>Arte International</b></span> <br>The Business of Art
-					</div>	
+						<!-- LAYER NR. 2 -->							
 
-					<!-- LAYER NR. 2 -->
-					<div class="tp-caption ZoomIn fadeout large_white tp-resizeme"
-						data-x="left"
-						data-y="170"
-						data-speed="500"
-						data-easing="easeOutQuad"
-						data-start="1300"><div class="separator-2 light"></div>
-					</div>	
+						<!-- LAYER NR. 3 -->						
 
-					<!-- LAYER NR. 3 -->
-					<div class="tp-caption sfb fadeout medium_white"
-						data-x="left"
-						data-y="190"
-						data-speed="500"
-						data-easing="easeOutQuad"
-						data-start="1000"
-						data-endspeed="600">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Nesciunt, maiores, aliquid. Repellat eum numquam aliquid culpa offici, <br> tenetur fugiat dolorum sapiente eligendi...
-					</div>
-
-					<!-- LAYER NR. 4 -->
-					<div class="tp-caption sfb fadeout small_white"
-						data-x="left"
-						data-y="300"
-						data-speed="500"
-						data-start="1600"
-						data-easing="easeOutQuad"
-						data-endspeed="600"><a href="#" class="btn btn-dark btn-animated">Read More <i class="fa fa-arrow-right"></i></a> <span class="pl-5 pr-5">or</span> <a href="page-contact.html" class="btn btn-default btn-animated">Contact Us <i class="fa fa-envelope"></i></a>
-					</div>
+						<!-- LAYER NR. 4 -->							
 
 					</li>
 					<!-- slide 2 end -->
+
 					<!-- slide 1 start -->
 					<!-- ================ -->
-					<li data-transition="slidehorizontal" data-slotamount="1"  data-masterspeed="1000" data-fstransition="fade" data-fsmasterspeed="1000" data-saveperformance="off" data-title="">
+					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">
 					
-					<!-- main image -->
-					<img src="videos/video-banner-poster.jpg" alt="slidebg1" data-bgposition="center center"  data-bgrepeat="no-repeat" data-bgfit="cover">
-					
-					<!-- Transparent Background -->
-					<div class="tp-caption dark-translucent-bg"
-						data-x="center"
-						data-y="bottom"
-						data-speed="600"
-						data-easing="easeOutQuad"
-						data-start="0">
-					</div>
+						<!-- main image -->
+						<img src="images/artists/ernesto/6.jpg" alt="slidebg2" data-bgposition="center top"  data-bgrepeat="no-repeat" data-bgfit="cover">
 
-					<!-- Video Background -->
-					<div class="tp-caption tp-fade fadeout fullscreenvideo"
-						data-x="0"
-						data-y="0"
-						data-speed="1000"
-						data-start="1100"
-						data-easing="Power4.easeOut"
-						data-elementdelay="0.01"
-						data-endelementdelay="0.1"
-						data-endspeed="1500"
-						data-endeasing="Power4.easeIn"
-						data-autoplay="true"
-						data-autoplayonlyfirsttime="false"
-						data-nextslideatend="true"
-			 			data-volume="mute" 
-			 			data-forceCover="1" 
-			 			data-aspectratio="16:9" 
-			 			data-forcerewind="on" 
-			 			style="z-index: 2;">
-						<video class="" preload="none" width="100%" height="100%" poster='videos/video-banner-poster.jpg'> 
-							<source src='videos/background-video-banner.mp4' type='video/mp4'/>
-							<source src='videos/background-video-banner.webm' type='video/webm'/>
-						</video>
-					</div>
+						<!-- Transparent Background -->
+						<!-- <div class="tp-caption dark-translucent-bg"
+							data-x="center"
+							data-y="bottom"
+							data-speed="600"
+							data-easing="easeOutQuad"
+							data-start="0">
+						</div> -->
 
-					<!-- LAYER NR. 1 -->
-					<div class="tp-caption sfb fadeout large_white text-right"
-						data-x="right"
-						data-y="50"
-						data-speed="500"
-						data-start="1000"
-						data-easing="easeOutQuad"><span style="font-size:44px;"><b>Arte International</b></span> <br>The Business of Art
-					</div>	
+						<!-- LAYER NR. 1 -->
+						<div class="tp-caption sft fadeout large_white"
+							data-x="left"
+							data-y="450"
+							data-speed="500"
+							data-easing="easeOutQuad"
+							data-start="1000"><span style="font-size:44px;"><b>Ernesto Ibañez</b></span> <br>Panal
+						</div>
 
-					<!-- LAYER NR. 2 -->
-					<div class="tp-caption sfb fadeout large_white tp-resizeme"
-						data-x="right"
-						data-y="170"
-						data-speed="500"
-						data-start="1300"
-						data-easing="easeOutQuad"><div class="separator-3 light"></div>
-					</div>	
+						<!-- LAYER NR. 2 -->
+						<!-- <div class="tp-caption ZoomIn fadeout large_white tp-resizeme"
+							data-x="left"
+							data-y="170"
+							data-speed="500"
+							data-easing="easeOutQuad"
+							data-start="1300"><div class="separator-2 light"></div>
+						</div>	 -->
 
-					<!-- LAYER NR. 3 -->
-					<div class="tp-caption sfb fadeout medium_white text-right"
-						data-x="right"
-						data-y="190"
-						data-speed="500"
-						data-start="1300"
-						data-easing="easeOutQuad"
-						data-endspeed="600">Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br> Nesciunt, maiores, aliquid. Repellat eum numquam aliquid culpa offici,<br> tenetur fugiat dolorum sapiente eligendi
-					</div>
+						<!-- LAYER NR. 3 -->
+					<!-- 	<div class="tp-caption sfb fadeout medium_white"
+							data-x="left"
+							data-y="190"
+							data-speed="500"
+							data-easing="easeOutQuad"
+							data-start="1000"
+							data-endspeed="600">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Nesciunt, maiores, aliquid. Repellat eum numquam aliquid culpa offici, <br> tenetur fugiat dolorum sapiente eligendi...
+						</div> -->
 
-					<!-- LAYER NR. 4 -->
-					<div class="tp-caption sfb fadeout small_white"
-						data-x="right"
-						data-y="300"
-						data-speed="500"
-						data-start="1600"
-						data-easing="easeOutQuad"
-						data-endspeed="600"><a href="#" class="btn btn-dark btn-animated">Read More <i class="fa fa-arrow-right"></i></a> <span class="pl-5 pr-5">or</span> <a href="page-contact.html" class="btn btn-default btn-animated">Contact Us <i class="fa fa-envelope"></i></a>
-					</div>
+						<!-- LAYER NR. 4 -->
+						<!-- <div class="tp-caption sfb fadeout small_white"
+							data-x="left"
+							data-y="300"
+							data-speed="500"
+							data-start="1600"
+							data-easing="easeOutQuad"
+							data-endspeed="600"><a href="#" class="btn btn-dark btn-animated">Read More <i class="fa fa-arrow-right"></i></a> <span class="pl-5 pr-5">or</span> <a href="page-contact.html" class="btn btn-default btn-animated">Contact Us <i class="fa fa-envelope"></i></a>
+						</div> -->
 
-					</li>
-					<!-- slide 1 end -->
-				</ul>
+						</li>
+						<!-- slide 1 end -->
+
+						
+
+						<!-- slide 3 start -->
+						<!-- ================ -->
+						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
+							<!-- main image -->							
+							<img src="images/artists/cinthia/7.jpg" alt="slidebg2" data-bgposition="center top"  data-bgrepeat="no-repeat" data-bgfit="cover">						
+
+							<!-- LAYER NR. 1 -->
+							<div class="tp-caption sft fadeout large_white"
+								data-x="left"
+								data-y="450"
+								data-speed="500"
+								data-easing="easeOutQuad"
+								data-start="1000"><span style="font-size:44px;"><b>Cinthia Gonzalez</b></span> <br>Escafandre
+							</div>
+
+							<!-- LAYER NR. 2 -->							
+
+							<!-- LAYER NR. 3 -->						
+
+							<!-- LAYER NR. 4 -->							
+
+						</li>
+						<!-- slide 3 end -->
+
+					</ul>
 				<div class="tp-bannertimer"></div>
 			</div>
 		</div>
@@ -918,5 +888,14 @@
 	<!-- footer top end -->
 </section> --}}
 <!-- section end -->
+
+<script type="text/javascript">
+$(function(){
+	document.getElementById('vid1').addEventListener('loadedmetadata', function() {
+	  this.currentTime = 50;
+	}, false);
+});
+
+</script>
 
 @stop

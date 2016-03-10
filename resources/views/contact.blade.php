@@ -89,13 +89,14 @@
 							<li><i class="fa fa-envelope pr-10"></i><a href="mailto:info@idea.com">info@theproject.com</a></li>
 						</ul>
 						<ul class="social-links circle small margin-clear clearfix animated-effect-1">
-							<li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
+							<!-- <li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
 							<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
 							<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
 							<li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
 							<li class="youtube"><a target="_blank" href="http://www.youtube.com"><i class="fa fa-youtube-play"></i></a></li>
-							<li class="flickr"><a target="_blank" href="http://www.flickr.com"><i class="fa fa-flickr"></i></a></li>
+							<li class="flickr"><a target="_blank" href="http://www.flickr.com"><i class="fa fa-flickr"></i></a></li> -->
 							<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+							<li class="instagram"><a target="_blank" href="http://www.instagram.com"><i class="fa fa-instagram"></i></a></li>
 						</ul>
 						<div class="separator-2 mt-20 "></div>
 						<a class="btn btn-gray collapsed map-show btn-animated" data-toggle="collapse" href="#collapseMap" aria-expanded="false" aria-controls="collapseMap">Show Map <i class="fa fa-plus"></i></a>
@@ -117,7 +118,7 @@
 
 <!-- section start -->
 <!-- ================ -->
-<section class="section pv-40 background-img-3 dark-translucent-bg" style="background-position:50% 77%;">
+<!-- <section class="section pv-40 background-img-3 dark-translucent-bg" style="background-position:50% 77%;">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
@@ -141,13 +142,13 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <div class="clearfix"></div>
 <!-- section end -->
 
 <!-- footer top start -->
 <!-- ================ -->
-<div class="dark-bg  default-hovered footer-top animated-text">
+<!-- <div class="dark-bg  default-hovered footer-top animated-text">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
@@ -165,7 +166,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!-- footer top end -->
 
 @stop

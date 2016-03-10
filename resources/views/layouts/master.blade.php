@@ -189,7 +189,7 @@
 									<div id="logo" class="logo">
 										{{-- <a href="index.html"><img id="logo_img" src="images/logo_light_blue.png" alt="The Project"></a> --}}
 										{{-- <a href="index.html"><img id="logo_img" src="images/logo_1.png" style="height:65px;" alt="The Project"></a> --}}
-										<a href="/"><img id="logo_img" src="images/logo_arte_2.png" style="height:58px;" alt="Arte International"></a>
+										<a href="/"><img id="logo_img" src="images/logos/logo_3.jpg" style="height:78px;" alt="Arte International"></a>
 
 										<!-- <span style="font-size:24px;">Arte International</span> -->
 									</div>
@@ -239,7 +239,7 @@
 												<ul class="nav navbar-nav ">
 
 													<!-- mega-menu start -->													
-													<li class="dropdown active mega-menu">
+													<!-- <li class="dropdown active mega-menu">
 														<a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Artists</a>
 														<ul class="dropdown-menu">
 															<li>
@@ -374,6 +374,10 @@
 																</div>
 															</li>
 														</ul>
+													</li> -->
+
+													<li>
+														<a href="/artists">Artists</a>
 													</li>												
 
 													<li>
@@ -388,7 +392,7 @@
 												<div class="header-dropdown-buttons hidden-xs ">
 													<ul class="social-links circle animated-effect-1" style="margin-top: 0px;">
 														<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
-														<li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
+														<!-- <li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li> -->
 														{{-- <li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
 														<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
 														<li class="xing"><a target="_blank" href="http://www.xing.com"><i class="fa fa-xing"></i></a></li> --}}
@@ -446,7 +450,7 @@
 										</ul>
 										<ul class="social-links circle animated-effect-1 margin-clear">
 											<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
-											<li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
+											<!-- <li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li> -->
 											{{-- <li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
 											<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
 											<li class="xing"><a target="_blank" href="http://www.xing.com"><i class="fa fa-xing"></i></a></li> --}}

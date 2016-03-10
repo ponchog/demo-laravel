@@ -272,7 +272,7 @@
 							data-y="450"
 							data-speed="500"
 							data-easing="easeOutQuad"
-							data-start="1000"><a href="/artist"><span style="font-size:44px;"><b>Cinthia Gonzalez</b></span> <br>Caballero Sol</a>
+							data-start="1000"><a href="/cinthia-nuez"><span style="font-size:44px;"><b>Cinthia Gonzalez</b></span> <br>Caballero Sol</a>
 						</div>
 
 						<!-- LAYER NR. 2 -->							
@@ -289,7 +289,7 @@
 					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">
 					
 						<!-- main image -->
-						<img src="images/artists/ernesto/6.jpg" alt="slidebg2" data-bgposition="center top"  data-bgrepeat="no-repeat" data-bgfit="cover">
+						<img src="images/artists/ernesto/9.gif" alt="slidebg2" data-bgposition="center top"  data-bgrepeat="no-repeat" data-bgfit="cover">
 
 						<!-- Transparent Background -->
 						<!-- <div class="tp-caption dark-translucent-bg"
@@ -306,7 +306,7 @@
 							data-y="450"
 							data-speed="500"
 							data-easing="easeOutQuad"
-							data-start="1000"><span style="font-size:44px;"><b>Ernesto Ibañez</b></span> <br>Panal
+							data-start="1000"><a href="/ernesto-ibanez"><span style="font-size:44px;"><b>Ernesto Ibañez</b></span> <br>Tokyo Blues</a>
 						</div>
 
 						<!-- LAYER NR. 2 -->
@@ -347,7 +347,7 @@
 						<!-- ================ -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
 							<!-- main image -->							
-							<img src="images/artists/cinthia/7.jpg" alt="slidebg2" data-bgposition="center top"  data-bgrepeat="no-repeat" data-bgfit="cover">						
+							<img src="images/artists/daniel/8b.jpg" alt="slidebg2" data-bgposition="center top"  data-bgrepeat="no-repeat" data-bgfit="cover">						
 
 							<!-- LAYER NR. 1 -->
 							<div class="tp-caption sft fadeout large_white"
@@ -355,7 +355,7 @@
 								data-y="450"
 								data-speed="500"
 								data-easing="easeOutQuad"
-								data-start="1000"><span style="font-size:44px;"><b>Cinthia Gonzalez</b></span> <br>Escafandre
+								data-start="1000"><a href="/ernesto-ibanez"><span style="font-size:44px;"><b>Daniel Escobedo</b></span> <br>Artwork 2</a>
 							</div>
 
 							<!-- LAYER NR. 2 -->							
@@ -890,11 +890,11 @@
 <!-- section end -->
 
 <script type="text/javascript">
-$(function(){
-	document.getElementById('vid1').addEventListener('loadedmetadata', function() {
-	  this.currentTime = 50;
-	}, false);
-});
+// $(function(){
+// 	document.getElementById('vid1').addEventListener('loadedmetadata', function() {
+// 	  this.currentTime = 50;
+// 	}, false);
+// });
 
 </script>
 

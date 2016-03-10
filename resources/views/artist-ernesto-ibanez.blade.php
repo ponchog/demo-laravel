@@ -25,8 +25,8 @@
 			<ul class="nav nav-tabs style-2" role="tablist">
 				<li class="active"><a href="#h2tab1" role="tab" data-toggle="tab">Artwork</a></li>
 				<li><a href="#h2tab2" role="tab" data-toggle="tab">Bio</a></li>
-				<li><a href="#h2tab3" role="tab" data-toggle="tab">Exhibits</a></li>
-				<li><a href="#h2tab4" role="tab" data-toggle="tab">Creative Process</a></li>
+				<!-- <li><a href="#h2tab3" role="tab" data-toggle="tab">Exhibits</a></li> -->
+				<li><a href="#h2tab3" role="tab" data-toggle="tab">Creative Process</a></li>
 			</ul>
 			<!-- Tab panes -->
 			<div class="tab-content">
@@ -89,13 +89,86 @@
 						<p>2005-2010 Degree: Bachelor of Visual Arts (Sculptor)<br />
 						Guadalajara, Mexico Universidad de Guadalajara Mexico</p>
 						<div class="clear"></div>
+
+						<div class="row" style="padding:20px;">
+							<p><b>COLLECTIVE EXHIBITIONS</b></p>
+							<div class="one_sixth">2007</div>
+							<div class="five_sixth_last">“Shampoo Negro” (Black Shampoo) Chai Café, Guadalajara, Jalisco, Mexico</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2009</div>
+							<div class="five_sixth_last">“It’s Ok to Cry” Galería HUMO (HUMO Gallery), Guadalajara, Jalisco, Mexico</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2009</div>
+							<div class="five_sixth_last">“XVIII Salon de la Escultura” (The Eighteenth Sculpture Hall), Guadalajara Center of Modern Art</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2010</div>
+							<div class="five_sixth_last">La Casa Rosa (The Pink House), San Antonio, Texas, USA</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2010</div>
+							<div class="five_sixth_last">High Wire Art Gallery, San Antonio, Texas, USA</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2010</div>
+							<div class="five_sixth_last">“80th Annual Artists Exhibition”, San Antonio Art League and Museum, San Antonio,Texas, USA<br />
+							Won Award “Marcia Gygli King Award”</div>
+							<div class="clear" style="padding-top: 15px;"></div>
+							<div class="one_sixth">2011</div>
+							<div class="five_sixth_last">“No Puedo Prometer Nada” (I Cannot Promise Anything), Galería Jorge Martínez (Jorge Martinez Gallery), Guadalajara, Jalisco, Mexico</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2011</div>
+							<div class="five_sixth_last">“81st Annual Artists Exhibition”, The San Antonio Art League and Museum, San Antonio, Texas, USA</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2011</div>
+							<div class="five_sixth_last">“Exposición de Colaboraciones” (Collaborations Exhibition), La Casa Rosa (The Pink House), San Antonio, Texas, USA</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2011</div>
+							<div class="five_sixth_last">“Inspire’s on Fire”, San Antonio, Texas, USA<br />
+							Won Award “Best of Show” with “Thousand Rabbits” piece.</div>
+							<div class="clear" style="padding-top: 15px;"></div>
+							<div class="one_sixth">2011</div>
+							<div class="five_sixth_last">“Inspire’s on Fire”,San Antonio Central Library, San Antonio, Texas, USA</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2011</div>
+							<div class="five_sixth_last">“La Parvada” (The Flock), Painting and Sculpture, Josephine Gallery, San Antonio, Texas, USA</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2012</div>
+							<div class="five_sixth_last">“Four Emerging San Antonio Artists”, Gallery Nord, San Antonio, Texas, USA</div>
+							<div class="clear"></div>
+							<br>
+							<p><b>INDIVIDUAL EXHIBITIONS</b></p>
+							<div class="clear"></div>
+							<div class="one_sixth">2011</div>
+							<div class="five_sixth_last">“La Parvada” (The Flock), Patio Central Casa Museo López Portillo (Central Patio of the Museum House López Portillo), Guadalajara, Jalisco, Mexico</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2011</div>
+							<div class="five_sixth_last">“Painting and Sculpture”, Josephine Gallery, San Antonio, Texas, USA</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2012</div>
+							<div class="five_sixth_last">“Universal Trash”, Magnolia Salon del Arte (Magnolia Art Hall), San Antonio, Texas, USA</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2013</div>
+							<div class="five_sixth_last">“15 Artists”, Gallery Nord, San Antonio, Texas, USA</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2014</div>
+							<div class="five_sixth_last">“Universal Trash, and El Bosque” (Universal Trash, and The Forest), Mexican Cultural Institute, San Antonio, Texas, USA</div>
+							<div class="clear"></div>
+							<div class="one_sixth">2015</div>
+							<div class="five_sixth_last">“El Bosque” UNAM San Antonio Texas, USA</div>
+							<div class="five_sixth_last"></div>
+							<div class="five_sixth_last">2015</div>
+							<div class="five_sixth_last">“El Bosque” UNAM Chicago Illinois USA</div>
+							<div class="five_sixth_last"></div>
+							<div class="five_sixth_last">2015</div>
+							<div class="five_sixth_last">UTSA Silent Art auction</div>
+							<div class="five_sixth_last"></div>
+							<div class="five_sixth_last"></div>
+						</div>	
 					</div>
 					
 				</div>		
 
 
 
-				<div class="tab-pane" id="h2tab3">
+				<!-- <div class="tab-pane" id="h2tab3">
 					<div class="row" style="padding:20px;">
 						<p><b>COLLECTIVE EXHIBITIONS</b></p>
 						<div class="one_sixth">2007</div>
@@ -167,8 +240,8 @@
 						<div class="five_sixth_last"></div>
 						<div class="five_sixth_last"></div>
 					</div>					
-				</div>
-				<div class="tab-pane" id="h2tab4">
+				</div> -->
+				<div class="tab-pane" id="h2tab3">
 					<div class="row" style="padding:20px;">
 						<h2>Youtube Video</h2>
 						<div class="embed-responsive embed-responsive-16by9">

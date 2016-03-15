@@ -42,6 +42,26 @@ Route::get('/daniel-escobedo', function(){
 	return view('artist-ernesto-ibanez');
 });
 
+Route::get('/services', function(){
+	// return view('artist-daniel-escobedo');
+	return view('services');
+});
+
+Route::get('/services/artists', function(){
+	// return view('artist-daniel-escobedo');
+	return view('services.artists');
+});
+
+Route::get('/services/galleries', function(){
+	// return view('artist-daniel-escobedo');
+	return view('services.galleries');
+});
+
+Route::get('/services/corporate', function(){
+	// return view('artist-daniel-escobedo');
+	return view('services.corporate');
+});
+
 // Route::get('/artist', function(){
 // 	return view('artist');
 // });

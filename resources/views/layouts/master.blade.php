@@ -88,7 +88,7 @@
 									<div id="logo" class="logo">
 										{{-- <a href="index.html"><img id="logo_img" src="images/logo_light_blue.png" alt="The Project"></a> --}}
 										{{-- <a href="index.html"><img id="logo_img" src="images/logo_1.png" style="height:65px;" alt="The Project"></a> --}}
-										<a href="/"><img id="logo_img" src="/images/logos/logo_3.jpg" style="height:78px;" alt="Arte International"></a>
+										<a href="/"><img id="logo_img" src="/images/logos/logo_3.png" style="height:78px;" alt="Arte International"></a>
 
 										<!-- <span style="font-size:24px;">Arte International</span> -->
 									</div>

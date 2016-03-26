@@ -24,7 +24,10 @@
 				<h3 class="title object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100"><span style="font-size:24px;">Arte International</span></h3>
 				
 				<div class="separator object-non-visible mt-10" data-animation-effect="fadeIn" data-effect-delay="100"></div>
-				<p class="text-center object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi perferendis magnam ea necessitatibus, officiis voluptas odit! Aperiam omnis, cupiditate laudantium velit nostrum, exercitationem accusamus, possimus soluta illo deserunt tempora qui.</p>
+				<!-- <p class="text-center object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi perferendis magnam ea necessitatibus, officiis voluptas odit! Aperiam omnis, cupiditate laudantium velit nostrum, exercitationem accusamus, possimus soluta illo deserunt tempora qui.</p> -->
+				<p class="text-center object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">
+				Arte’s mission is to promote Latino Art and creativity in the United States. We also assist art galleries, corporate buyers, interior decorators, collectors identify and appreciate contemporary Latino art. Arte International is a conduit to find art galleries that will arrange sales and set up a contractual relationship with the dealer that is both equitable and profitable.
+				</p>
 			</div>
 		</div>
 	</div>

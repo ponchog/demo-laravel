@@ -142,11 +142,7 @@
 
 													<li>
 														<a href="/about">About</a>
-													</li>
-
-													<li>
-														<a href="/contact">Contact</a>
-													</li>
+													</li>													
 
 													<li class="dropdown ">
 														<a href="" class="dropdown-toggle" data-toggle="dropdown">Our Services</a>
@@ -155,7 +151,12 @@
 															<li ><a href="/services/galleries">For Galleries</a></li>
 															<li ><a href="/services/corporate">For Corporate Buyers</a></li>															
 														</ul>
-													</li>													
+													</li>
+
+													<li>
+														<a href="/contact">Contact</a>
+													</li>
+
 												
 												<!-- header dropdown buttons -->
 												<div class="header-dropdown-buttons hidden-xs ">
@@ -207,7 +208,7 @@
 										{{-- <div class="logo-footer"><img id="logo-footer" class="center-block" src="images/logo_light_blue.png" alt=""></div> --}}
 										<div class="logo-footer"><span style="font-size:24px;">Arte International</span></div>
 										<br>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus illo vel dolorum soluta consectetur doloribus sit. Delectus non tenetur odit dicta vitae debitis suscipit doloribus. Lorem ipsum dolor sit amet, illo vel dolorum soluta consectetur.</p>
+										<p>Our mission is to promote Latino Art and creativity in the United States. We also assist art galleries, corporate buyers, interior decorators, collectors identify and appreciate contemporary Latino art. Arte International is a conduit to find art galleries that will arrange sales and set up a contractual relationship with the dealer that is both equitable and profitable.</p>
 										<ul class="list-inline mb-20">
 											<li><i class="text-default fa fa-map-marker pr-5"></i>One infinity loop, 54100</li>
 											<li><a href="tel:+00 1234567890" class="link-dark"><i class="text-default fa fa-phone pl-10 pr-5"></i>+00 1234567890</a></li>

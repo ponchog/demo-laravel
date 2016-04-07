@@ -5,6 +5,7 @@
 	<!--<![endif]-->
 
 	<head>
+		<meta name="google-site-verification" content="C0rfu7yAm4QgzmLAli4nMc1MFpNkNZ8VpzqUaVyR6h8" />
 		<meta charset="utf-8">
 		<title>Arte International | Home</title>
 		<meta name="description" content="The Project a Bootstrap-based, Responsive HTML5 Template">

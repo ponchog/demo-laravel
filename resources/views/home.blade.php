@@ -332,68 +332,7 @@
 
 					<!-- slide 2 start -->
 					<!-- ================ -->
-					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">
-						
-						<!-- main image -->
-						<!-- <img src="/images/artists/ernesto/1.gif" alt="slidebg1" data-bgposition="center top"  data-bgrepeat="no-repeat" data-bgfit="cover"> -->
-						<img src="/images/artists/ernesto/1.gif" alt="slidebg1" data-bgposition="90% 50%" data-bgrepeat="no-repeat" data-bgfit="normal">
-						<!-- <img src="/images/artists/ernesto/1.gif"  alt="kenburns1"  data-bgposition="left bottom" data-duration="2000" data-ease="Power4.easeInOut" data-bgfit="100" data-bgfitend="50" data-bgpositionend="center top"> -->
-						
-						<!-- Transparent Background -->
-						<div class="tp-caption dark-translucent-bg"						
-							data-x="center"
-							data-y="center"
-							data-speed="500"
-							data-easing="easeOutQuad"
-							data-start="0" style="opacity: 0.2 !important;">
-						</div>
-
-						<!-- LAYER NR. 1 -->
-						<!-- <div class="tp-caption sfb fadeout large_white" -->
-						<div class="tp-caption sfb fadeout large_white"
-							data-x="left"
-							data-y="100"
-							data-speed="500"
-							data-start="1000"
-							data-easing="easeOutQuad"><span><b>Arte International</b></span>
-							<br>
-							<div style="margin-top:-15px;font-size:25px;"><span><b>The Business Of Art</b></span></div>
-						</div>	
-
-						<!-- LAYER NR. 2 -->
-						<div class="tp-caption sfb fadeout large_white tp-resizeme"
-							data-x="left"
-							data-y="170"
-							data-speed="500"
-							data-start="1300"
-							data-easing="easeOutQuad"><div class="separator-2 light"></div>
-						</div>	
-
-						<!-- LAYER NR. 3 -->
-						<div class="tp-caption sfb fadeout medium_white"
-							data-x="left"
-							data-y="190"
-							data-speed="500"
-							data-start="1300"
-							data-easing="easeOutQuad"
-							data-endspeed="600">Our mission is to promote Latino Art and creativity in the United States.
-							<br>We also assist art galleries, corporate buyers, interior decorators, collectors identify 
-							<br>and appreciate Latino contemporary art.
- 							<br> Arte International is a conduit to find art galleries that will arrange sales and set up 
- 							<br> a contractual relationship with the dealer that is both equitable and profitable.
- 							</span>
-						</div>
-
-						<!-- LAYER NR. 4 -->
-						<div class="tp-caption sfb fadeout small_white"
-							data-x="left"
-							data-y="380"
-							data-speed="500"
-							data-start="1600"
-							data-easing="easeOutQuad"
-							data-endspeed="600"><a href="/about" class="btn btn-default btn-lg btn-animated">Learn More <i class="fa fa-paint-brush"></i></a>
-						</div>						
-					</li>
+					
 					<!-- slide 2 end -->
 
 

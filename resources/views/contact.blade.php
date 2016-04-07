@@ -22,7 +22,7 @@
 			<div class="col-md-8 text-center col-md-offset-2 pv-20">
 				<h2 class="title">Contact Us</h2>
 				<div class="separator mt-10"></div>
-				<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi perferendis magnam ea necessitatibus, officiis voluptas odit! Aperiam omnis, cupiditate laudantium velit nostrum, exercitationem accusamus, possimus soluta illo deserunt tempora qui.</p>
+				<p class="text-center">Arte International supports emerging and established contemporary Latin American artists by providing an array of services, resources, knowledge, and support for all artists and galleries in order for professional and personal goals to be met.</p>
 			</div>
 		</div>
 	</div>
@@ -39,7 +39,7 @@
 			<!-- main start -->
 			<!-- ================ -->
 			<div class="main col-md-8 space-bottom">
-				<p class="lead">It would be great to hear from you! Just drop us a line and ask for anything with which you think we could be helpful. We are looking forward to hearing from you!</p>
+				<p class="lead">Are you looking for more information about Arte International? It will be great to hear from you! Send us your questions and request via appropriate contacts below. We look forward to hearing from you!</p>
 				<div class="alert alert-success hidden" id="MessageSent">
 					We have received your message, we will contact you very soon.
 				</div>
@@ -83,10 +83,9 @@
 						<h3 class="title">Arte International</h3>
 						<div class="separator-2 mt-20"></div>
 						<ul class="list">
-							<li><i class="fa fa-home pr-10"></i>795 Folsom Ave, Suite 600<br><span class="pl-20">San Antonio, TX 94107</span></li>
-							<li><i class="fa fa-phone pr-10"></i><abbr title="Phone">P:</abbr> (123) 456-7890</li>
-							<li><i class="fa fa-mobile pr-10 pl-5"></i><abbr title="Phone">M:</abbr> (123) 456-7890</li>
-							<li><i class="fa fa-envelope pr-10"></i><a href="mailto:info@idea.com">info@theproject.com</a></li>
+							<li><i class="fa fa-home pr-10"></i>79901 IH 10 West Suite 777<br><span class="pl-20">San Antonio, TX 78230</span></li>
+							<li><i class="fa fa-phone pr-10"></i><abbr title="Phone">P:</abbr> +1 (210) 340-3800</li>							
+							<li><i class="fa fa-envelope pr-10"></i><a href="mailto:contact@arteinternationalus.com">contact@arteinternationalus.com</a></li>
 						</ul>
 						<ul class="social-links circle small margin-clear clearfix animated-effect-1">
 							<!-- <li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
@@ -97,9 +96,10 @@
 							<li class="flickr"><a target="_blank" href="http://www.flickr.com"><i class="fa fa-flickr"></i></a></li> -->
 							<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
 							<li class="instagram"><a target="_blank" href="http://www.instagram.com"><i class="fa fa-instagram"></i></a></li>
+							<li class="pinterest"><a target="_blank" href="http://www.pinterest.com"><i class="fa fa-pinterest"></i></a></li>
 						</ul>
-						<div class="separator-2 mt-20 "></div>
-						<a class="btn btn-gray collapsed map-show btn-animated" data-toggle="collapse" href="#collapseMap" aria-expanded="false" aria-controls="collapseMap">Show Map <i class="fa fa-plus"></i></a>
+						<!-- <div class="separator-2 mt-20 "></div> -->
+						
 					</div>
 				</div>
 			</aside>
@@ -111,9 +111,7 @@
 
 <!-- section start -->
 <!-- ================ -->
-<section id="collapseMap">
-	<div id="map-canvas"></div>
-</section>
+
 <!-- section end -->
 
 <!-- section start -->

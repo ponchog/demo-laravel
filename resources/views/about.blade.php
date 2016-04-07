@@ -26,7 +26,7 @@
 				<div class="separator object-non-visible mt-10" data-animation-effect="fadeIn" data-effect-delay="100"></div>
 				<!-- <p class="text-center object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi perferendis magnam ea necessitatibus, officiis voluptas odit! Aperiam omnis, cupiditate laudantium velit nostrum, exercitationem accusamus, possimus soluta illo deserunt tempora qui.</p> -->
 				<p class="text-center object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">
-				Arte’s mission is to promote Latino Art and creativity in the United States. We also assist art galleries, corporate buyers, interior decorators, collectors identify and appreciate contemporary Latino art. Arte International is a conduit to find art galleries that will arrange sales and set up a contractual relationship with the dealer that is both equitable and profitable.
+				Driven by a deep respect and passion for art and the Latin American culture, Ruben Flores established Arte International in 2015. The concept was simple yet unique to create an agency that represents Latin American artists in order to connect their works to the art market in The United States. As a result, Arte International serves as a conduit for Latino artists and galleries. We arrange sales and set up contractual relationships with the dealer that is both equitable and profitable. We strive to develop and maintain relationships with the nation’s most respected galleries and corporate buyers. We also assist interior decorators and art collectors who identify and appreciate contemporary Latino art.
 				</p>
 			</div>
 		</div>
@@ -48,9 +48,9 @@
 				<div class="separator-2"></div>
 				<div class="row">
 					<div class="col-md-6">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus illo vero cupiditate, sed enim voluptatibus provident consectetur. Quo dolor sunt nostrum, eligendi illo accusamus odit, ipsam excepturi voluptatem nulla minus.</p>
-						<p>Blanditiis aspernatur, non quasi, maxime corporis officiis quia. Cupiditate, voluptatibus ducimus, natus, labore mollitia dolorem incidunt voluptatum, delectus eius fugit porro placeat animi voluptatem autem hic eligendi sint. Amet pariatur odit repudiandae sunt. Rem ipsum dolor sit amet, consectetur adipisicing elit. Sunt asperiores a.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus illo vero cupiditate, sed enim voluptatibus provident consectetur. Quo dolor sunt nostrum, eligendi illo accusamus odit, ipsam excepturi voluptatem nulla minus.</p>
+						<p>Our mission is to promote Latino art and their creativity in the United States. We also assist art galleries, corporate buyers, interior decorators, and art collectors who identify and appreciate contemporary Latino art. Arte International serves as a conduit for art galleries that will arrange sales and set up a contractual relationship with the dealer that is both equitable and profitable.</p>
+					
+						
 						{{-- <ul class="list-icons">
 							<li><i class="icon-check-1"></i> We are here to support you</li>
 							<li><i class="icon-check-1"></i> Free updates</li>

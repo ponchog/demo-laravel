@@ -12,7 +12,7 @@
 				<ol class="breadcrumb">
 					<li><i class="fa fa-home pr-10"></i><a class="link-dark" href="/">Home</a></li>
 					<li><a class="link-dark" href="/">Artists</a></li>
-					<li class="active">Ernesto Ibañez</li>
+					<li class="active">Cinthia Nuez</li>
 				</ol>
 			</div>
 		</div>

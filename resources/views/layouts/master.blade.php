@@ -163,6 +163,7 @@
 													<ul class="social-links circle animated-effect-1" style="margin-top: 0px;">
 														<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>														
 														<li class="instagram"><a target="_blank" href="http://www.instagram.com"><i class="fa fa-instagram"></i></a></li>
+														<li class="pinterest"><a target="_blank" href="http://www.pinterest.com"><i class="fa fa-pinterest"></i></a></li>
 													</ul>													
 												</div>
 												<!-- header dropdown buttons end-->
@@ -208,15 +209,16 @@
 										{{-- <div class="logo-footer"><img id="logo-footer" class="center-block" src="images/logo_light_blue.png" alt=""></div> --}}
 										<div class="logo-footer"><span style="font-size:24px;">Arte International</span></div>
 										<br>
-										<p>Our mission is to promote Latino Art and creativity in the United States. We also assist art galleries, corporate buyers, interior decorators, collectors identify and appreciate contemporary Latino art. Arte International is a conduit to find art galleries that will arrange sales and set up a contractual relationship with the dealer that is both equitable and profitable.</p>
+										<p>Arte International supports emerging and established contemporary Latin American artists by providing an array of services, resources, knowledge, and support for all artists and galleries in order for professional and personal goals to be met.</p>
 										<ul class="list-inline mb-20">
-											<li><i class="text-default fa fa-map-marker pr-5"></i>One infinity loop, 54100</li>
-											<li><a href="tel:+00 1234567890" class="link-dark"><i class="text-default fa fa-phone pl-10 pr-5"></i>+00 1234567890</a></li>
+											<li><i class="text-default fa fa-map-marker pr-5"></i>9901 IH 10 West Suite 777, San Antonio, TX 78230</li>
+											<li><a href="tel:+1 (210) 340-3800" class="link-dark"><i class="text-default fa fa-phone pl-10 pr-5"></i>+1 (210) 340-3800</a></li>
 											<li><a href="mailto:contact@arteinternationalus.com" class="link-dark"><i class="text-default fa fa-envelope-o pl-10 pr-5"></i>contact@arteinternationalus.com</a></li>
 										</ul>
 										<ul class="social-links circle animated-effect-1 margin-clear">
 											<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>											
 											<li class="instagram"><a target="_blank" href="http://www.instagram.com"><i class="fa fa-instagram"></i></a></li>
+											<li class="pinterest"><a target="_blank" href="http://www.pinterest.com"><i class="fa fa-pinterest"></i></a></li>
 										</ul>
 										<div class="separator"></div>
 										<p class="text-center margin-clear">Copyright © 2016 <a target="_blank" href="#">Arte International</a>. All Rights Reserved</p>

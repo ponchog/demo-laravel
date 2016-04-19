@@ -210,10 +210,10 @@
 										{{-- <div class="logo-footer"><img id="logo-footer" class="center-block" src="images/logo_light_blue.png" alt=""></div> --}}
 										<div class="logo-footer"><span style="font-size:24px;">Arte International</span></div>
 										<br>
-										<p>Arte International supports emerging and established contemporary Latin American artists by providing an array of services, resources, knowledge, and support for all artists and galleries in order for professional and personal goals to be met.</p>
+										<p>Arte International supports emerging and established contemporary Latino artists by providing an array of services, resources, knowledge, and support for artists and galleries.</p>
 										<ul class="list-inline mb-20">
 											<li><i class="text-default fa fa-map-marker pr-5"></i>9901 IH 10 West Suite 777, San Antonio, TX 78230</li>
-											<li><a href="tel:+1 (210) 340-3800" class="link-dark"><i class="text-default fa fa-phone pl-10 pr-5"></i>+1 (210) 340-3800</a></li>
+											<li><a href="tel:+1 (210) 600-4126" class="link-dark"><i class="text-default fa fa-phone pl-10 pr-5"></i>+1 (210) 600-4126</a></li>
 											<li><a href="mailto:contact@arteinternationalus.com" class="link-dark"><i class="text-default fa fa-envelope-o pl-10 pr-5"></i>contact@arteinternationalus.com</a></li>
 										</ul>
 										<ul class="social-links circle animated-effect-1 margin-clear">

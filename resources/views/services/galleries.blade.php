@@ -22,7 +22,7 @@
 			<div class="col-md-8 text-center col-md-offset-2 pv-20">
 				<h2 class="title">What we do for galleries</h2>
 				<div class="separator mt-10"></div>
-				<p class="text-center">Arte International provides galleries access to exceptional, contemporary Latino artworks from the various Latin American artists that we represent. We can provide you the gallery an array of various services to ensure optimal success.</p>
+				<p class="text-center">Arte International provides galleries access to exceptional, contemporary Latino artworks from the Latino artists that we represent. We can provide you the gallery an array of services to ensure optimal success.</p>
 			</div>
 		</div>
 	</div>
@@ -38,17 +38,15 @@
 
 			<!-- main start -->
 			<!-- ================ -->
-			<div class="main col-md-12">								
-				<p>
-					* Content to be updated *
-				</p>
+			<div class="main col-md-12">
 				<p>
 					These services include counsel on the following:
 				</p>
 				<p>
 					<ul>					    					    
-					    <li>Marketing Services.</li>
-					    <li>Legal Services.</li>
+					    <li>Research and identify Latino artists in the United States and Latin America.</li>
+					    <li>Networking and introduction to Latino artists and their works.</li>
+					    <li>Intermediary to negotiate and obtain exhibits and representations of Latino artist.</li>
 					</ul>
 				</p>
 				<br>

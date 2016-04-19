@@ -24,7 +24,8 @@
 			<div class="col-md-8 text-center col-md-offset-2 pv-20">
 				<h2 class="title">What we do for corporate buyers</h2>
 				<div class="separator mt-10"></div>
-				<p class="text-center">Arte International provides Corporate Buyers access to exceptional and contemporary Latino artworks from the various Latin American artists that we We can provide you the Corporate Buyer an array of various services to ensure optimal success.</p>
+				<p class="text-center">Arte International provides Corporate Buyers access to exceptional and contemporary Latino artworks from the various Latin American artists that we can provide you the Corporate Buyer an array of options and choices to help you achieve your goal.
+				We have an interior decorator and architect in the team that can assist and advice you on the artists and their artworks that best convey your message.</p>
 			</div>
 		</div>
 	</div>

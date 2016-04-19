@@ -26,7 +26,7 @@
 				<div class="separator object-non-visible mt-10" data-animation-effect="fadeIn" data-effect-delay="100"></div>
 				<!-- <p class="text-center object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi perferendis magnam ea necessitatibus, officiis voluptas odit! Aperiam omnis, cupiditate laudantium velit nostrum, exercitationem accusamus, possimus soluta illo deserunt tempora qui.</p> -->
 				<p class="text-center object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">
-				Driven by a deep respect and passion for art and the Latin American culture, Ruben Flores established Arte International in 2015. The concept was simple yet unique to create an agency that represents Latin American artists in order to connect their works to the art market in The United States. As a result, Arte International serves as a conduit for Latino artists and galleries. We arrange sales and set up contractual relationships with the dealer that is both equitable and profitable. We strive to develop and maintain relationships with the nation’s most respected galleries and corporate buyers. We also assist interior decorators and art collectors who identify and appreciate contemporary Latino art.
+				Driven by a deep respect and passion for Latin American art, our founders established Arte International in 2015. The concept was simple yet unique to create an agency that represents Latin American artists to promote their works to the art market in the United States. As a result, Arte International serves as a conduit for Latino artists and galleries. We arrange sales and set up contractual relationships with art dealers. We strive to develop and maintain relationships with the nation’s most respected galleries and corporate buyers. We also assist interior decorators and art collectors who identify and appreciate contemporary Latino art.
 				</p>
 			</div>
 		</div>
@@ -48,7 +48,7 @@
 				<div class="separator-2"></div>
 				<div class="row">
 					<div class="col-md-6">
-						<p>Our mission is to promote Latino art and their creativity in the United States. We also assist art galleries, corporate buyers, interior decorators, and art collectors who identify and appreciate contemporary Latino art. Arte International serves as a conduit for art galleries that will arrange sales and set up a contractual relationship with the dealer that is both equitable and profitable.</p>
+						<p>Our mission is to promote Latino art and their creativity in the United States. We also assist art galleries, corporate buyers, and art collectors who identify and appreciate contemporary Latino art. Arte International serves as a conduit for art galleries that will arrange sales and set up a business relationship with the dealer that is both equitable and profitable.</p>
 					
 						
 						{{-- <ul class="list-icons">

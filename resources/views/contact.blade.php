@@ -83,7 +83,7 @@
 						<h3 class="title">Arte International</h3>
 						<div class="separator-2 mt-20"></div>
 						<ul class="list">
-							<li><i class="fa fa-home pr-10"></i>79901 IH 10 West Suite 777<br><span class="pl-20">San Antonio, TX 78230</span></li>
+							<li><i class="fa fa-home pr-10"></i>9901 IH 10 West Suite 777<br><span class="pl-20">San Antonio, TX 78230</span></li>
 							<li><i class="fa fa-phone pr-10"></i><abbr title="Phone">P:</abbr> +1 (210) 600-4126</li>							
 							<li><i class="fa fa-envelope pr-10"></i><a href="mailto:contact@arteinternationalus.com">contact@arteinternationalus.com</a></li>
 						</ul>

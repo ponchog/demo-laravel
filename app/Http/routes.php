@@ -23,23 +23,28 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/ernesto-ibanez', function(){
-	return view('artist-ernesto-ibanez');
+Route::get('/artists/ernesto-ibanez', function(){
+	return view('artists.ernesto-ibanez');
 });
 
-Route::get('/cinthia-nuez', function(){
-	// return view('artist-cinthia-nuez');
-	return view('artist-ernesto-ibanez');
+Route::get('/artists/cinthia-nuez', function(){
+	return view('artists.cinthia-nuez');
+	// return view('artist-ernesto-ibanez');
 });
 
-Route::get('/pulse', function(){
+Route::get('/artists/carlos-torres', function(){
+	return view('artists.carlos-torres');
+	// return view('artist-ernesto-ibanez');
+});
+
+Route::get('/artists/pulse', function(){
 	// return view('artist-pulse');
-	return view('artist-ernesto-ibanez');
+	return view('artists.pulse');
 });
 
-Route::get('/daniel-escobedo', function(){
+Route::get('artists/daniel-escobedo', function(){
 	// return view('artist-daniel-escobedo');
-	return view('artist-ernesto-ibanez');
+	return view('artists.daniel-escobedo');
 });
 
 Route::get('/services', function(){

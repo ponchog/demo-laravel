@@ -348,7 +348,7 @@
 							data-y="450"
 							data-speed="500"
 							data-easing="easeOutQuad"
-							data-start="1000"><a href="/cinthia-nuez"><span style="font-size:44px;"><b>Cinthia Gonzalez</b></span> <br>Caballero Sol</a>
+							data-start="1000"><a href="/artists/cinthia-nuez"><span style="font-size:44px;"><b>Cinthia Gonzalez</b></span> <br>Caballero Sol</a>
 						</div>
 					
 					</li>
@@ -367,7 +367,7 @@
 							data-y="450"
 							data-speed="500"
 							data-easing="easeOutQuad"
-							data-start="1000"><a href="/ernesto-ibanez"><span style="font-size:44px;"><b>Ernesto Ibañez</b></span> <br>Tokyo Blues</a>
+							data-start="1000"><a href="/artists/ernesto-ibanez"><span style="font-size:44px;"><b>Ernesto Ibañez</b></span> <br>Tokyo Blues</a>
 						</div>						
 
 					</li>
@@ -385,24 +385,11 @@
 							data-y="450"
 							data-speed="500"
 							data-easing="easeOutQuad"
-							data-start="1000"><a href="/ernesto-ibanez"><span style="font-size:44px;"><b>Daniel Escobedo</b></span> <br>Artwork 2</a>
+							data-start="1000"><a href="/artists/daniel-escobedo"><span style="font-size:44px;"><b>Daniel Escobedo</b></span> <br>Answers</a>
 						</div>					
 
 					</li>
 
-
-
-
-
-
-
-
-
-
-
-
-
-					
 
 					</ul>
 				<div class="tp-bannertimer"></div>

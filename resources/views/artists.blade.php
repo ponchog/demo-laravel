@@ -34,10 +34,10 @@
 
 							<div class="isotope-container-fitrows row grid-space-10">
 								<div class="col-sm-6 col-md-4 isotope-item">
-									<a href="/ernesto-ibanez">
+									<a href="/artists/ernesto-ibanez">
 										<div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center" style="cursor:pointer;">
 											<div class="overlay-container">
-												<img src="images/artists/ernesto/1.gif" alt="" style="max-height:230px; display:inline;">											
+												<img src="/images/artists/ernesto/1.gif" alt="" style="max-height:230px; display:inline;">											
 											</div>
 											<div class="body">
 												<h3>Ernesto Ibanez</h3>
@@ -47,10 +47,10 @@
 								</div>
 
 								<div class="col-sm-6 col-md-4 isotope-item">
-									<a href="/ernesto-ibanez">
+									<a href="/artists/cinthia-nuez">
 										<div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center" style="cursor:pointer;">
 											<div class="overlay-container">
-												<img src="images/artists/cinthia/5.jpg" alt="" style="max-height:230px; display:inline;">											
+												<img src="/images/artists/cinthia/5.jpg" alt="" style="max-height:230px; display:inline;">											
 											</div>
 											<div class="body">
 												<h3>Cinthia Nuez</h3>
@@ -60,10 +60,10 @@
 								</div>								
 
 								<div class="col-sm-6 col-md-4 isotope-item">
-									<a href="/ernesto-ibanez">
+									<a href="/artists/pulse">
 										<div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center" style="cursor:pointer;">
 											<div class="overlay-container">
-												<img src="images/artists/pulse/5.jpg" alt="" style="max-height:230px; display:inline;">											
+												<img src="/images/artists/pulse/5.jpg" alt="" style="max-height:230px; display:inline;">											
 											</div>
 											<div class="body">
 												<h3>Pulse</h3>											
@@ -73,10 +73,10 @@
 								</div>
 
 								<div class="col-sm-6 col-md-4 isotope-item">
-									<a href="/ernesto-ibanez">
+									<a href="/artists/daniel-escobedo">
 										<div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center" style="cursor:pointer;">
 											<div class="overlay-container">
-												<img src="images/artists/daniel/8.jpg" alt="" style="max-height:230px; display:inline;">											
+												<img src="/images/artists/daniel/8.jpg" alt="" style="max-height:230px; display:inline;">											
 											</div>
 											<div class="body">
 												<h3>Daniel Escobedo</h3>
@@ -86,10 +86,10 @@
 								</div>
 
 								<div class="col-sm-6 col-md-4 isotope-item">
-									<a href="/ernesto-ibanez">
+									<a href="/artists/carlos-torres">
 										<div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center" style="cursor:pointer;">
 											<div class="overlay-container">
-												<img src="images/construction-1.jpg" alt="" style="max-height:230px; display:inline;">											
+												<img src="/images/artists/carlos/Diente Estrella 59x43_ oil on canvas.jpg" alt="" style="max-height:230px; display:inline;">											
 											</div>
 											<div class="body">
 												<h3>Carlos Torrres</h3>

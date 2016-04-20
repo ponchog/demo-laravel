@@ -44,55 +44,20 @@
 			<!-- main start -->
 			<!-- ================ -->
 			<div class="main col-md-12">
-				<h3 class="title"><strong>Our Mission</strong></h3>
+				<h3 class="title"><strong>About Us</strong></h3>
 				<div class="separator-2"></div>
 				<div class="row">
 					<div class="col-md-6">
 						<p>Driven by a deep respect and passion for Latin American art, our founders established Arte International in 2015. The concept was simple yet unique to create an agency that represents Latin American artists to promote their works to the art market in the United States. As a result, Arte International serves as a conduit for Latino artists and galleries. We arrange sales and set up contractual relationships with art dealers. We strive to develop and maintain relationships with the nation’s most respected galleries and corporate buyers. We also assist interior decorators and art collectors who identify and appreciate contemporary Latino art.</p>
+						<br>
+						<h3 class="title"><strong>Our Mission</strong></h3>
+						<div class="separator-2"></div>
 						<p>Our mission is to promote Latino art and their creativity in the United States. We also assist art galleries, corporate buyers, and art collectors who identify and appreciate contemporary Latino art. Arte International serves as a conduit for art galleries that will arrange sales and set up a business relationship with the dealer that is both equitable and profitable.</p>
-					
-						
-						{{-- <ul class="list-icons">
-							<li><i class="icon-check-1"></i> We are here to support you</li>
-							<li><i class="icon-check-1"></i> Free updates</li>
-							<li><i class="icon-check-1"></i> Unlimited options and variations</li>
-							<li><i class="icon-check-1"></i> ipsam asperiores fugiat quo</li>
-						</ul> --}}
 					</div>
 					<div class="col-md-6">
 						<img src="images/artists/ernesto/1.gif" alt="" style="max-height: 350px; display:inline;">
-						
-						<!-- <div class="owl-carousel content-slider-with-controls">						
-							<div class="overlay-container overlay-visible">
-								<img src="images/artists/ernesto/1.gif" alt="" style="max-height: 350px; display:inline;">
-								<div class="overlay-bottom hidden-xs">
-									<div class="text">
-										<h3 class="title">Text</h3>
-									</div>
-								</div>
-								<a href="images/page-about-1.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
-							</div>
-							<div class="overlay-container overlay-visible">
-								<img src="images/artists/ernesto/3.gif" alt="" style="max-height: 350px; display:inline;">
-								<div class="overlay-bottom hidden-xs">
-									<div class="text">
-										<h3 class="title">Text</h3>
-									</div>
-								</div>
-								<a href="images/page-about-2.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
-							</div>
-							<div class="overlay-container overlay-visible">
-								<img src="images/artists/cinthia/5.jpg" alt="" style="max-height: 350px; display:inline;">
-								<div class="overlay-bottom hidden-xs">
-									<div class="text">
-										<h3 class="title">Text</h3>
-									</div>
-								</div>
-								<a href="images/page-about-3.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
-							</div>
-						</div> -->
 					</div>
-				</div>
+				</div>				
 			</div>
 			<!-- main end -->
 

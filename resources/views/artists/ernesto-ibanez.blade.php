@@ -82,7 +82,40 @@
 
 				<div class="tab-pane" id="h2tab2">
 					<div class="row" style="padding:20px;">
-						<p>Ernesto Ibanez has worked with various materials such as: ceramics, cement, wood, metal, fiberglass, and resin. Always aiming to take on new challenges and make full use of different materials. In the past four years the artist has concentrated his work on a technique that he developed in which the pieces are covered with thousands of nails that simulate fur. This idea emerged from the search to propose something new. He accomplished this by changing the nail’s context, from its original intent into something completely different. Creating a great impact between the spectator and the work.</p>
+						<p>
+							Ernesto Ibanez has worked with various materials such as: ceramics, cement, wood, metal, fiberglass, and resin.
+							Always aiming to take on new challenges and make full use of different materials. 
+							In the past four years the artist has concentrated his work on a technique that he developed in which the pieces
+							are covered with thousands of nails that simulate fur. This idea emerged from the search to propose something new.
+							He accomplished this by changing the nail’s context, from its original intent into something completely different.
+							Creating a great impact between the spectator and the work.
+						</p>
+
+						<h3>Justification</h3>
+						<p>
+							The art in the course of history has meaning as a fundamental expression of
+							human beings. Through the different art forms have been marked crucial
+							stages in the historical development of mankind.
+						</p>
+						<p>							
+							Meeting in art a strong attraction to express myself through the aesthetic
+							form composition and all that theory together with my way of seeing things
+							produce art. In the case of sculpture I find special interest in repeating
+							modules and how these modules together create a single element as a
+							whole. In painting I care about social issues not from a radical point but one
+							that seeks the peaceful consciousness using art as a means of expression.
+						</p>
+						<p>
+							I use nature as a means of inspiration and animal or organic forms in the
+							water, or land with trees, also find special inspiration in geometry straight
+							lines in my work I try to take away the apparent rigidity to make them more
+							functional.
+						</p>
+						<p>
+							In my creative process you can be found multiple amount of materials
+							because I rely on first determine what to do and then decide what material is
+							appropriate for the weight, strength, aesthetics and durability.
+						</p>
 
 						<p><b>EDUCATION</b></p>
 						<p>2005-2010 Degree: Bachelor of Visual Arts (Sculptor)<br />
@@ -90,6 +123,16 @@
 						<div class="clear"></div>
 
 						<div class="row" style="padding:20px;">
+							<p><b>INDIVIDUAL EXHIBITIONS</b></p>
+							<b>2011 “La Parvada” (The Flock)</b>, Patio Central Casa Museo López Portillo (Central Patio of the Museum House López Portillo), Guadalajara, Jalisco, Mexico<br>
+							<b>2011 “Painting and Sculpture”</b>, Josephine Gallery, San Antonio, Texas, USA<br>
+							<b>2012 “Universal Trash”</b>, Magnolia Salon del Arte (Magnolia Art Hall), San Antonio, Texas, USA<br>
+							<b>2013 “15 Artists”</b>, Gallery Nord, San Antonio, Texas, USA<br>
+							<b>2014 “Universal Trash, and El Bosque” (Universal Trash, and The Forest)</b>, Mexican Cultural Institute, San Antonio, Texas, USA<br>
+							<b>2015 “El Bosque” </b>UNAM San Antonio Texas, USA<br>
+							<b>2015 “El Bosque” </b>UNAM Chicago Illinois USA<br>
+							<b>2015 UTSA Silent Art auction</b>, San Antonio, Texas, USA<br>
+							<br>
 							<p><b>COLLECTIVE EXHIBITIONS</b></p>
 							<b>2007 “Shampoo Negro” (Black Shampoo)</b>, Chai Café, Guadalajara, Jalisco, Mexico<br>
 							<b>2009 “It’s Ok to Cry”</b>, Galería HUMO (HUMO Gallery), Guadalajara, Jalisco, Mexico<br>
@@ -105,15 +148,6 @@
 							<b>2011 “La Parvada” (The Flock)</b>, Painting and Sculpture, Josephine Gallery, San Antonio, Texas, USA<br>
 							<b>2012 “Four Emerging San Antonio Artists”</b>, Gallery Nord, San Antonio, Texas, USA<br>
 							<br>
-							<p><b>INDIVIDUAL EXHIBITIONS</b></p>
-							<b>2011 “La Parvada” (The Flock)</b>, Patio Central Casa Museo López Portillo (Central Patio of the Museum House López Portillo), Guadalajara, Jalisco, Mexico<br>
-							<b>2011 “Painting and Sculpture”</b>, Josephine Gallery, San Antonio, Texas, USA<br>
-							<b>2012 “Universal Trash”</b>, Magnolia Salon del Arte (Magnolia Art Hall), San Antonio, Texas, USA<br>
-							<b>2013 “15 Artists”</b>, Gallery Nord, San Antonio, Texas, USA<br>
-							<b>2014 “Universal Trash, and El Bosque” (Universal Trash, and The Forest)</b>, Mexican Cultural Institute, San Antonio, Texas, USA<br>
-							<b>2015 “El Bosque” </b>UNAM San Antonio Texas, USA<br>
-							<b>2015 “El Bosque” </b>UNAM Chicago Illinois USA<br>
-							<b>2015 UTSA Silent Art auction</b>, San Antonio, Texas, USA<br>							
 						</div>	
 					</div>					
 				</div>		

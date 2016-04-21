@@ -25,7 +25,7 @@
 				<p class="text-center">
 				Arte International supports emerging and established contemporary Latin American artists. 
 				We provide a diversity of services and resources for artists, galleries and corporate buyers 
-				to help create a connection between them.				
+				to create a connection between them.				
 				</p>
 			</div>
 		</div>

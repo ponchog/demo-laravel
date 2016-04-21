@@ -40,7 +40,7 @@
 			<!-- ================ -->
 			<div class="main col-md-12">
 				<p>
-					Our specialized, personalized attention to each artists we represent is the most important part of our business. We provide artists an array of various services to ensure optimal success.
+					Our specialized, personalized attention to each artist we represent is the most important part of our business. We provide artists an array of various services to ensure optimal success.
 				</p>
 				<p>
 					These services include counsel on the following:
@@ -49,7 +49,7 @@
 					<ul>
 					    <li>Marketing Services such as promoting, advertising, and developing relationships with galleries on behalf of the artist.</li>
 					    <!-- <li>Assessment of collections.</li> -->
-					    <li>Strategic guidance on collection identity and development, acquisitions, deaccessions, and short-term and long-term planning.</li>					    
+					    <li>Strategic guidance on collection identity and development, acquisitions, deaccessions, short-term and long-term planning.</li>					    
 					    <li>Legal and business advisory such as business planning, contract negotiations and consulting.</li>
 					</ul>
 				</p>

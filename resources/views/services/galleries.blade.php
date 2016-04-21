@@ -25,7 +25,7 @@
 				<p class="text-center">
 				Arte International provides galleries access to exceptional, 
 				contemporary Latino artworks from the Latino artists that we represent.
-				We provide galleries an array of services to create a connection with unique and talented Latino artists.				
+				We provide galleries an array of services to create a connection with unique and talented artists.				
 				</p>
 			</div>
 		</div>

@@ -44,21 +44,23 @@
 
 			<!-- main start -->
 			<!-- ================ -->
-<!-- 			<div class="main col-md-12">				
+			<div class="main col-md-12">				
 				<p>
-					We have an interior decorators and architects in the team that can assist and advice you on the artists and the artworks that best convey your message.
+					Our team of interior designers and architects can assist and advice on 
+					the artworks that best convey your message.
 				</p>
 				<p>
 					Arte International not only offers unique, contemporary Latino art for the art market today, but also strives to offer opportunity as well as diversity in the United States art market.
 				</p>
 				
-			</div> -->
+			</div>
 
-			<div class="main col-md-12">				
+			<!-- <div class="main col-md-12">				
 				<div class="row">
 					<div class="col-md-6">
 						<p>
-							We have an interior decorators and architects in the team that can assist and advice you on the artists and the artworks that best convey your message.
+							Our team of interior designers and architects can assist and advice on 
+							the artworks that best convey your message.													
 						</p>
 						<p>
 							Arte International not only offers unique, contemporary Latino art for the art market today, but also strives to offer opportunity as well as diversity in the United States art market.
@@ -68,7 +70,7 @@
 						<img src="/images/artists/ernesto/8.gif" alt="" style="max-height: 350px; display:inline;">
 					</div>
 				</div>				
-			</div>
+			</div> -->
 		</div>
 	</div>
 

@@ -56,7 +56,7 @@
 						<br>
 						<h3 class="title"><strong>Our Mission</strong></h3>
 						<div class="separator-2"></div>
-						<p>Our mission is to promote Latino art and their creativity in the United States. We also assist art galleries, corporate buyers, interior designers, and art collectors who identify and appreciate contemporary Latino art. Arte International serves as a conduit for art galleries that will arrange sales and set up a business relationship with the dealer that is both equitable and profitable.</p>
+						<p>Our mission is to promote Latino art and their creativity in the United States. We also assist art galleries, corporate buyers, and art collectors who identify and appreciate contemporary Latino art. Arte International serves as a conduit for art galleries that will arrange sales and set up a business relationship with the dealer that is both equitable and profitable.</p>
 					</div>
 					<div class="col-md-6">
 						<img src="images/artists/ernesto/1.gif" alt="" style="max-height: 350px; display:inline;">
@@ -69,98 +69,7 @@
 	</div>
 	<br>
 	<br>
-	<br>
-
-	<!-- section start -->
-	<!-- ================ -->
-	{{-- <div class="light-gray-bg pv-20 section mt-20">
-		<div class="container">
-			<h4 class="mb-20">Our <strong>Team</strong></h4>
-			<div class="row grid-space-10">
-				<div class="col-sm-6 col-md-3">
-					<div class="image-box team-member style-2 shadow bordered mb-20 text-center">
-						<div class="overlay-container overlay-visible">
-							<img src="images/team-member-1.jpg" alt="">
-							<div class="overlay-bottom">
-								<p class="small margin-clear">Lorem ipsum dolor sit amet, consectetur adipisicing elit!</p>
-							</div>
-						</div>
-						<div class="body">
-							<h3 class="margin-clear">Jane Doe</h3>
-							<small>CEO</small>
-							<div class="separator mt-10"></div>
-							<ul class="social-links circle colored margin-clear">
-								<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
-								<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
-								<li class="xing"><a target="_blank" href="https://www.xing.com/"><i class="fa fa-xing"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-3">
-					<div class="image-box team-member style-2 shadow bordered mb-20 text-center">
-						<div class="overlay-container overlay-visible">
-							<img src="images/team-member-2.jpg" alt="">
-							<div class="overlay-bottom">
-								<p class="small margin-clear">Ipsum dolor sit amet, consectetur adipisicing elit!</p>
-							</div>
-						</div>
-						<div class="body">
-							<h3 class="margin-clear">John Doe</h3>
-							<small>CTO</small>
-							<div class="separator mt-10"></div>
-							<ul class="social-links circle colored margin-clear">
-								<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
-								<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
-								<li class="xing"><a target="_blank" href="https://www.xing.com/"><i class="fa fa-xing"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-3">
-					<div class="image-box team-member style-2 shadow bordered mb-20 text-center">
-						<div class="overlay-container overlay-visible">
-							<img src="images/team-member-3.jpg" alt="">
-							<div class="overlay-bottom">
-								<p class="small margin-clear">Dolor sit amet, praesentium consectetur adipisicing elit!</p>
-							</div>
-						</div>
-						<div class="body">
-							<h3 class="margin-clear">Anne Doe</h3>
-							<small>Project Manager</small>
-							<div class="separator mt-10"></div>
-							<ul class="social-links circle colored margin-clear">
-								<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
-								<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
-								<li class="xing"><a target="_blank" href="https://www.xing.com/"><i class="fa fa-xing"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-3">
-					<div class="image-box team-member style-2 shadow bordered mb-20 text-center">
-						<div class="overlay-container overlay-visible">
-							<img src="images/team-member-4.jpg" alt="">
-							<div class="overlay-bottom">
-								<p class="small margin-clear">Voluptates praesentium nulla cupiditate explicabo!</p>
-							</div>
-						</div>
-						<div class="body">
-							<h3 class="margin-clear">Maria Doe</h3>
-							<small>Designer</small>
-							<div class="separator mt-10"></div>
-							<ul class="social-links circle colored margin-clear">
-								<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
-								<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
-								<li class="xing"><a target="_blank" href="https://www.xing.com/"><i class="fa fa-xing"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div> --}}
-	<!-- section end -->
+	<br>	
 </section>
 <!-- main-container end -->
 

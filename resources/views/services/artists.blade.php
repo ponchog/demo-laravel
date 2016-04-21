@@ -22,7 +22,7 @@
 			<div class="col-md-8 text-center col-md-offset-2 pv-20">
 				<h2 class="title">What we do for artists</h2>
 				<div class="separator mt-10"></div>
-				<p class="text-center">Arte International offers guidance and assistance to Latino artists who desire to have their artwork promoted in the United States. We offer our services to you the artist to promote, expose, and sell your art.</p>
+				<p class="text-center">Arte International offers guidance and assistance to Latino artists who desire to have their artwork promoted in the United States. We offer our services to artists to promote, expose, and sell your art.</p>
 			</div>
 		</div>
 	</div>
@@ -40,7 +40,7 @@
 			<!-- ================ -->
 			<div class="main col-md-12">
 				<p>
-					Our specialized, personalized attention to each artists we represent is the most important part of our business. We can provide you the artist an array of various services to ensure optimal success.
+					Our specialized, personalized attention to each artists we represent is the most important part of our business. We provide artists an array of various services to ensure optimal success.
 				</p>
 				<p>
 					These services include counsel on the following:
@@ -49,7 +49,7 @@
 					<ul>
 					    <li>Marketing Services such as promoting, advertising, and developing relationships with galleries on behalf of the artist.</li>
 					    <!-- <li>Assessment of collections.</li> -->
-					    <li>Strategic guidance on collection identity and development, acquisitions, deaccessions, and short term- long term planning.</li>					    
+					    <li>Strategic guidance on collection identity and development, acquisitions, deaccessions, and short-term and long-term planning.</li>					    
 					    <li>Legal and business advisory such as business planning, contract negotiations and consulting.</li>
 					</ul>
 				</p>

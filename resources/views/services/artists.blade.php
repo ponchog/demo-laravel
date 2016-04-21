@@ -22,7 +22,7 @@
 			<div class="col-md-8 text-center col-md-offset-2 pv-20">
 				<h2 class="title">What we do for artists</h2>
 				<div class="separator mt-10"></div>
-				<p class="text-center">Arte International offers guidance and assistance to Latino artists who desire to have their artwork promoted in the United States. We offer our services to artists to promote, expose, and sell your art.</p>
+				<p class="text-center">Arte International offers guidance and assistance to Latino artists who desire to have their artwork promoted in the United States. We offer our services to artists to promote, expose, and sell their art.</p>
 			</div>
 		</div>
 	</div>

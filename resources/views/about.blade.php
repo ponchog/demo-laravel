@@ -48,11 +48,15 @@
 				<div class="separator-2"></div>
 				<div class="row">
 					<div class="col-md-6">
-						<p>Driven by a deep respect and passion for Latin American art, our founders established Arte International in 2015. The concept was simple yet unique to create an agency that represents Latin American artists to promote their works to the art market in the United States. As a result, Arte International serves as a conduit for Latino artists and galleries. We arrange sales and set up contractual relationships with art dealers. We strive to develop and maintain relationships with the nation’s most respected galleries and corporate buyers. We also assist interior decorators and art collectors who identify and appreciate contemporary Latino art.</p>
+						<p>Driven by a deep respect and passion for Latin American art, our founders established Arte International in 2015.
+						The concept was simple yet unique to create an agency that represents Latin American artists to promote their works 
+						to the art market in the United States. As a result, Arte International serves as a conduit for Latino artists and galleries.
+						We arrange sales and set up contractual relationships with art dealers. We strive to develop and maintain relationships with 
+						the nation’s most respected galleries and corporate buyers.</p>
 						<br>
 						<h3 class="title"><strong>Our Mission</strong></h3>
 						<div class="separator-2"></div>
-						<p>Our mission is to promote Latino art and their creativity in the United States. We also assist art galleries, corporate buyers, and art collectors who identify and appreciate contemporary Latino art. Arte International serves as a conduit for art galleries that will arrange sales and set up a business relationship with the dealer that is both equitable and profitable.</p>
+						<p>Our mission is to promote Latino art and their creativity in the United States. We also assist art galleries, corporate buyers, interior designers, and art collectors who identify and appreciate contemporary Latino art. Arte International serves as a conduit for art galleries that will arrange sales and set up a business relationship with the dealer that is both equitable and profitable.</p>
 					</div>
 					<div class="col-md-6">
 						<img src="images/artists/ernesto/1.gif" alt="" style="max-height: 350px; display:inline;">

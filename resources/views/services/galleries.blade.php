@@ -22,7 +22,11 @@
 			<div class="col-md-8 text-center col-md-offset-2 pv-20">
 				<h2 class="title">What we do for galleries</h2>
 				<div class="separator mt-10"></div>
-				<p class="text-center">Arte International provides galleries access to exceptional, contemporary Latino artworks from the Latino artists that we represent. We can provide you the gallery an array of services to ensure optimal success.</p>
+				<p class="text-center">
+				Arte International provides galleries access to exceptional, 
+				contemporary Latino artworks from the Latino artists that we represent.
+				We provide galleries an array of services to create a connection with unique and talented Latino artists.				
+				</p>
 			</div>
 		</div>
 	</div>

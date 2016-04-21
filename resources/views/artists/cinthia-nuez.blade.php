@@ -118,7 +118,7 @@
 				<div class="tab-pane" id="h2tab2">
 					<div class="row" style="padding:20px;">
 						<p>
-							My name is Cinthia Nunez and I am a Mexican professional artist who specializes in drawing, painting and Illustration. 
+							My name is Cinthia Nuez and I am a Mexican professional artist who specializes in drawing, painting and Illustration. 
 						</p>
 						<p>
 							Since 2004, my work has taken part in several collective and individual exhibitions in Guadalajara and Los Angeles. Additionally, I have also been previously selected for “The Second Auction and Exhibition Molaa Awards 2007”, by the Museum of Latin American Art. In my work, there is a constant search. I use collages as resources. My intention in doing so are to provoke a sense of puzzle, change the original context of an object, add other elements and combinations, as well as juxtapositions to the image. I also like to use mixed media on canvas, and printed fabrics in some of my pieces as well.

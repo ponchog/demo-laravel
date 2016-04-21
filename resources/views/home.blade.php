@@ -348,7 +348,7 @@
 							data-y="450"
 							data-speed="500"
 							data-easing="easeOutQuad"
-							data-start="1000"><a href="/artists/cinthia-nuez"><span style="font-size:44px;"><b>Cinthia Gonzalez</b></span> <br>Caballero Sol</a>
+							data-start="1000"><a href="/artists/cinthia-nuez"><span style="font-size:44px;"><b>Cinthia Nuez</b></span> <br>Caballero Sol</a>
 						</div>
 					
 					</li>

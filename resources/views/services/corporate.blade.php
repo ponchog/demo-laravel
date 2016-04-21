@@ -55,7 +55,6 @@
 			</div> -->
 
 			<div class="main col-md-12">
-				<h3 class="title"><strong>About Us</strong></h3>
 				<div class="separator-2"></div>
 				<div class="row">
 					<div class="col-md-6">
@@ -67,7 +66,7 @@
 						</p>
 					</div>
 					<div class="col-md-6">
-						<img src="images/artists/ernesto/1.gif" alt="" style="max-height: 350px; display:inline;">
+						<img src="images/artists/ernesto/8.gif" alt="" style="max-height: 350px; display:inline;">
 					</div>
 				</div>				
 			</div>

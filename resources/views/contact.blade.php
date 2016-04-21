@@ -43,7 +43,10 @@
 			<!-- main start -->
 			<!-- ================ -->
 			<div class="main col-md-8 space-bottom">
-				<p class="lead">Are you looking for more information about Arte International? It will be great to hear from you! Send us your questions and request via appropriate contacts below. We look forward to hearing from you!</p>
+				<p class="lead">
+					Are you looking for more information about Arte International? 
+					Please contact us using the form below. We look forward to hearing from you!
+				</p>
 				<div class="alert alert-success hidden" id="MessageSent">
 					We have received your message, we will contact you very soon.
 				</div>

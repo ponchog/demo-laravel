@@ -9,7 +9,7 @@
 			<div class="container">
 				<ol class="breadcrumb">
 					<li><i class="fa fa-home pr-10"></i><a class="link-dark" href="/">Home</a></li>
-					<li><a class="link-dark" href="/">Artists</a></li>
+					<li><a class="link-dark" href="/artists">Artists</a></li>
 					<li class="active">Pulse</li>
 				</ol>
 			</div>

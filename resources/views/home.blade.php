@@ -375,7 +375,7 @@
 
 					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
 						<!-- main image -->							
-						<img src="/images/artists/Carlos/Diente_Estrella_59x43_oil_on_canvas.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">						
+						<img src="/images/artists/carlos/Diente_Estrella_59x43_oil_on_canvas.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">						
 
 						<!-- LAYER NR. 1 -->
 						<div class="tp-caption sft fadeout large_white"

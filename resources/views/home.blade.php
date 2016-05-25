@@ -340,7 +340,7 @@
 					<!-- ================ -->
 					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
 						<!-- main image -->							
-						<img src="images/artists/cinthia/5.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">						
+						<img src="/images/artists/cinthia/5.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">						
 
 						<!-- LAYER NR. 1 -->
 						<div class="tp-caption sft fadeout large_white"
@@ -359,7 +359,7 @@
 					<!-- ================ -->
 					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
 						<!-- main image -->
-						<img src="images/artists/ernesto/panal_56x56x60_cardboard_assembly.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">								 
+						<img src="/images/artists/ernesto/panal_56x56x60_cardboard_assembly.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">								 
 
 						<!-- LAYER NR. 1 -->
 						<div class="tp-caption sft fadeout large_white"
@@ -367,7 +367,7 @@
 							data-y="450"
 							data-speed="500"
 							data-easing="easeOutQuad"
-							data-start="1000"><a href="/artists/ernesto-ibanez"><span style="font-size:44px;"><b>Ernesto Ibañez</b></span> <br>Tokyo Blues</a>
+							data-start="1000"><a href="/artists/ernesto-ibanez"><span style="font-size:44px;"><b>Ernesto Ibañez</b></span> <br>Panal</a>
 						</div>						
 
 					</li>

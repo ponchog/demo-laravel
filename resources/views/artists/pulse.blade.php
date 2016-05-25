@@ -68,8 +68,8 @@
 							</div>
 							<div class="col-xs-3">
 								<div class="overlay-container">
-									<img src="/images/artists/pulse/la niña ti.... 51x59_ mix media.jpg" alt="">
-									<a href="/images/artists/pulse/la niña ti.... 51x59_ mix media.jpg" class="overlay-link small popup-img" title="Fifth image title">
+									<img src="/images/artists/pulse/la_nina_tiene_51x59_mix_media.jpg" alt="">
+									<a href="/images/artists/pulse/la_nina_tiene_51x59_mix_media.jpg" class="overlay-link small popup-img" title="Fifth image title">
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
@@ -80,8 +80,8 @@
 					<div class="row grid-space-20">
 						<div class="col-xs-3">
 							<div class="overlay-container">
-								<img src="/images/artists/pulse/Miaw 51x59_ mix media.jpg" alt="">
-								<a href="/images/artists/pulse/Miaw 51x59_ mix media.jpg" class="overlay-link small popup-img" title="Fifth image title">
+								<img src="/images/artists/pulse/Miaw51x59_mixmedia.jpg" alt="">
+								<a href="/images/artists/pulse/Miaw51x59_mixmedia.jpg" class="overlay-link small popup-img" title="Fifth image title">
 									<i class="fa fa-plus"></i>
 								</a>
 							</div>
@@ -110,29 +110,14 @@
 				<div class="tab-pane" id="h2tab2">
 					<div class="row" style="padding:20px;">
 						<p>
-							Born June 26, 1986, in the transition from 10 to 11 years is known to the Graffiti
-
-							as the first artistic expression and this becomes a strong influence on his life.
-						</p>
+							At age 10, Pulse discovered graffiti as his first expression of plastic arts. Graffiti was a strong influence on his art. Pulse’s process not only comes from his school of art knowledge but also from his knowledge of street art.
+ 						</p>
 						<p>
-							Between the street and survey Press UNF, it is that his work is based from the
-
-							observation function of the everyday of his life, where he obtained material for
-
-							developing a variety of ideas with images easy to digest, cheerful and with a
-
-							touch of sarcasm adding some background and insight.
-						</p>
+							Based from his experience of everyday life. He obtained materials for developing a variety of ideas with images easy to digest, cheerful and with a touch of sarcasm adding some background and insight.
+ 						</p>
 						<p>
-							In his work it involves figurative image which takes up some points of
-
-							Mesoamerican cultures, rooting physiognomic and aesthetic references from the
-
-							treatment of the human body as the deformation of the skull, teeth or body
-
-							decoration taking it to the current context.
+							In his work it involves figurative images, which take up some points of Mesoamerican cultures, using aesthetic references from the treatment of the human body as the distortions of the skull and teeth, taking into current context. 
 						</p>
-						
 					</div>					
 				</div>		
 							

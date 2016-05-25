@@ -34,8 +34,8 @@
 					<div class="row" style="padding:20px;">				
 						<div class="shadow bordered">
 							<div class="overlay-container">
-								<img src="/images/artists/carlos/Diente Estrella 59x43_ oil on canvas.jpg" alt="">
-								<a href="/images/artists/carlos/Diente Estrella 59x43_ oil on canvas.jpg" class="overlay-link popup-img" title="First image title">
+								<img src="/images/artists/carlos/Diente_Estrella_59x43_oil_on_canvas.jpg" alt="">
+								<a href="/images/artists/carlos/Diente_Estrella_59x43_oil_on_canvas.jpg" class="overlay-link popup-img" title="First image title">
 									<i class="fa fa-plus"></i>
 								</a>
 							</div>
@@ -94,116 +94,32 @@
 				<div class="tab-pane" id="h2tab2">
 					<div class="row" style="padding:20px;">
 						<p>
-							Carlos Torres is from Guadalajara, Jalisco, México. He graduated from the School of Plastic Arts of the University of Guadalajara with a B.F.A. He also completed technical studies of painting, acting, dance and music at the
-
-							Preparatory CEDART-Jose Clemente Orosco. In 2002 he participated in the
-
-							Cultural Hospice Cabanas receiving a diploma of Arts for his participation.
-
-							He participated as an assitant in Juan Carlos Macias’ studio, and later with
-
-							the collective engraving “The Tower of the Crickets” as printer’s apprentice.
-
-							He also worked with the professor Conelio Garcia in the printmaking field. 
+							Carlos Torres is from Guadalajara, Jalisco, México. He graduated from the School of Plastic Arts of the University of Guadalajara with a B.F.A. He also completed technical studies of painting, acting, dance and music at the Preparatory CEDART-Jose Clemente Orosco. In 2002, he participated in the Cultural Hospice Cabanas receiving a diploma of Arts for his participation. He participated as an assistant in Juan Carlos Macias’ studio, and later with the collective engraving “The Tower of the Crickets” as printer’s apprentice. He also worked with Professor Conelio Garcia, in the printmaking field. 
 						</p>
 						<p>
-							Carlos influences are realistic and figurative painters like Chuck Close,
-
-							Lucian Freud, John Currin, Eric Fischl, Justin Mortimer, Jenny Saville,
-
-							Gottfried Helwein, as well as artists such as Sergio Garval, Juan Carlos
-
-							Macias, Carlos Vargas Pons, Martha Pacheco, Daniel Lezama.
+							Carlos influences are realistic and figurative painters like Chuck Close, Lucian Freud, John Currin, Eric Fischl, Justin Mortimer, Jenny Saville, Gottfried Helwein, as well as artists such as Sergio Garval, Juan Carlos Macias, Carlos Vargas Pons, Martha Pacheco, Daniel Lezama.
 						</p>
 						<p>
-							Carlos most relevant artwork “Strange Encounters of the Third World”
-
-							(2011), “Sketches Third World”. (2011), “Contemplations” (2013), and
-
-							“Faces see” (2015). He has participated in multiple group exhibitions and
-
-							four solo exhibitions. His latest individual exhibits have been at the Ex
-
-							Convento Del Carmen (Guadalajara, Mexico), Museum Fernando del Paso
-
-							(Colima, Mexico) and Casa Museo Lopez Portillo (Guadalajara, Mexico). 
+							Carlos most relevant artwork “Strange Encounters of the Third World” (2011), “Sketches Third World”. (2011), “Contemplations” (2013), and “Faces see” (2015). He has participated in multiple group exhibitions and four solo exhibitions. His latest individual exhibits have been at the Ex Convento Del Carmen (Guadalajara, Mexico), Museum Fernando del Paso (Colima, Mexico) and Casa Museo Lopez Portillo (Guadalajara, Mexico). 
 						</p>
 						<p>
-							He has been selected and received honorable mention in a variety of
-
-							painting contest such as, prize “Jose Atanasio Monroy” in 2005, 2008 and
-
-							2014; “October’s Salon” in 2008, 2009, 2010, 2011, and 2013. Carlos uses
-
-							his exhibitions as resources in his search for artistic discourse, which
-
-							disrupst events of everyday life in contempotary Mexican society. 
+							He has been selected and received honorable mention in a variety of painting contest such as, prize “Jose Atanasio Monroy” in 2005, 2008 and 2014; “October’s Salon” in 2008, 2009, 2010, 2011, and 2013. Carlos uses his exhibitions as resources in his search for artistic discourse, which disrupts events of everyday life in contemporary Mexican society. 
 						</p>
-
 						<h3>Justification</h3>
+
 						<p>
-							Art is a tool of expression that has been used in various ways, from the
-
-							decorative, narrative, social, intellectual, as a weapon of power, as a flag
-
-							that serves to elevate thinking, creative process and plastic. It is as vast and
-
-							varied as humanity, is complex and vast, this can be a way to get to get as
-
-							an artist&#39;s identity is sought as a person, whatever it is, or the position you
-
-							have.
+							“Art is a tool of expression that has been used in various ways, from the decorative, narrative, social, and intellectual. Used as a weapon of power, as a flag that serves to elevate thinking, creative process and plastic. It is as vast and varied as humanity, and as complex and simple.
 						</p>
 						<p>
-							I learned from small to be able to manipulate the clay or clay, but ahead
-
-							thanks to the influence of an uncle, I discovered the world of drawing
-
-							caricature, this led me with great concern to explore slowly portrait and so
-
-							realism, trying to improve my Technique. Subconsciously, from the years I
-
-							was giving me notice this great office that is art, human expression by
-
-							nature, I learned naturally and in doing so fills me with satisfaction, concerns
-
-							and cutaways.
+							I learned from a young age to manipulate clay, but with the influence of an uncle, I discovered the world of drawing caricatures, this led me with great concern to explore slowly portrait and so realism, and as a result improve my technique. Subconsciously, from the years I was given notice to this great office that is art, human expression by nature, I learned naturally and in doing so fills me with satisfaction, concerns and cutaways.
 						</p>
 						<p>
-							The search of my work has been marking inadvertently in a voice that much
-
-							includes social, my tendency to realism generates me direct contact with the
-
-							individual, with my models, with the portrayed objects, their situation in the
-
-							context of the social and toward me. Seen from a status &quot;Cuo&quot;, seen from
-
-							their needs, their excesses, their fears and concerns, which lead me to
-
-							reflect on the canvas, make a remark, a comparison and a connection
-
-							between each person portrait.
+							The search of my work has been marking inadvertently a voice that much includes social. My tendency to realism allows me direct contact with the individual, my models, the portrayed objects, and their situation in the context of the social and towards me. Seen from a status quo, seen from their needs, their excesses, their fears and concerns, which lead me to reflect on the canvas and as a result, make a remark, a comparison and a connection between each portrait.
 						</p>
 						<p>
-							My creative process is kind of complex; in the series &quot;Faces see&quot; in
-
-							particular, begins with the search for the characters, urban in this case, and
-
-							with a visual contrast between them and the common people. After being
-
-							photographed, the image is treated in different ways, realistic sketches, and
-
-							then the composition of the character by plastic resource that wants to try in
-
-							the piece, in this case, circles, triangles and squares, by way of a pixelaje,
-
-							but interpreted in an analogous manner, carefully observing the color,
-
-							contrast, light, and so on, consequently this gives new ways to represent the
-
-							face in various options.
-						</p>
-						
+							My creative process is kind of complex; in the series "Faces see" in particular, begins with the search for the characters, urban in this case, and with a visual contrast between them and the common people. After being photographed, the image is treated in different ways, realistic sketches, and then the composition of the character by plastic resource that wants to try in the piece, in this case, circles, triangles and squares, by way of a pixel, but interpreted in an analogous manner, carefully observing the color, contrast, light, and so on, consequently this gives new ways to represent the face in various options.”
+						</p>						
+						 <p>- Carlos Torres</p>
 					</div>					
 				</div>		
 							

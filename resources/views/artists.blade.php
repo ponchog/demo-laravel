@@ -89,7 +89,7 @@
 									<a href="/artists/carlos-torres">
 										<div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center" style="cursor:pointer;">
 											<div class="overlay-container">
-												<img src="/images/artists/carlos/Diente Estrella 59x43_ oil on canvas.jpg" alt="" style="max-height:230px; display:inline;">											
+												<img src="/images/artists/carlos/Diente_Estrella_59x43_oil_on_canvas.jpg" alt="" style="max-height:230px; display:inline;">											
 											</div>
 											<div class="body">
 												<h3>Carlos Torrres</h3>

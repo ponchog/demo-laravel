@@ -118,20 +118,46 @@
 				<div class="tab-pane" id="h2tab2">
 					<div class="row" style="padding:20px;">
 						<p>
-							My name is Cinthia Nuez and I am a Mexican professional artist who specializes in drawing, painting and Illustration. 
+							Cinthia Nuez is a Mexican professional artist, who specializes in drawing, painting
+							and Illustration. Since 2004, her work has taken part in several collectives and
+							individual exhibitions in Guadalajara and Los Angeles. Additionally, she has also
+							been previously selected for “The Second Auction and Exhibition Molaa Awards
+							2007”, by the Museum of Latin American Art.
+						</p>
+
+						<h3>Justification</h3>
+
+						<p>
+
+							“In my work, there is a constant search. I use collages as resource. My intention in
+							doing so are to provoke a sense of puzzle, change the original context of an object,
+							add other elements and combinations, as well as juxtapositions to the image. I also
+							like to use mixed media on canvas, and printed fabrics in some of my pieces as well.						
+							Identity is a constant element of my work. I include what is going on in my life, my
+							personal experiences, and the questions I am currently pondering about the world.
 						</p>
 						<p>
-							Since 2004, my work has taken part in several collective and individual exhibitions in Guadalajara and Los Angeles. Additionally, I have also been previously selected for “The Second Auction and Exhibition Molaa Awards 2007”, by the Museum of Latin American Art. In my work, there is a constant search. I use collages as resources. My intention in doing so are to provoke a sense of puzzle, change the original context of an object, add other elements and combinations, as well as juxtapositions to the image. I also like to use mixed media on canvas, and printed fabrics in some of my pieces as well.
+							Currently, I am working in a new painting project called “Escafandra”. The narrative
+							of the collection is a combination of realistic and abstract elements with the key
+							component in these series being an antique diving helmet symbolizing the fully
+							subversive experience that is life.
 						</p>
 						<p>
-							Identity is a constant element of my work. I include what is going on in my life, my personal experiences, and the questions I am currently pondering about the world. Currently, I am working in a new painting project called “Escafandra”. The narrative of the collection is a combination of realistic and abstract elements with the key component in these series being an antique diving helmet symbolizing the fully subversive experience that is life. 
+							I feel that my work has a universal language, able to be read and understood
+							anywhere in the world. As an artist I try to renew myself in each project I undertake,
+							and overtime my work has evolved through many subjects and color palettes.
 						</p>
-						<p>							
-							I feel that my work has a universal language, able to be read and understood anywhere in the world. As an artist I try to renew myself in each project I undertake, and overtime my work has evolved through many subjects and color palettes. 
-						<p>							
-							You can see high contrasts in my first pieces with my works of today being substantially more subtle, however, my style has not changed. In every piece I create, I draw attention to a particular element, leaving an unadorned background, and creating the sense of sculpture. 
-							My pieces establish a space for reflection towards identity and mass culture, power and simulation.
-						</p>						
+						<p>
+							You can see high contrasts in my first pieces in comparison with my works of today
+							being substantially subtle. However, my style has not changed. In every piece I
+							create, I draw attention to a particular element, leaving an unadorned background,
+							and creating the sense of sculpture. My pieces establish a space for reflection
+							towards identity and mass culture, power and simulation.”
+						</p>
+						<p>
+							- Cinthia Nuez
+						</p>
+
 					</div>					
 				</div>		
 				

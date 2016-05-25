@@ -140,52 +140,31 @@
 					</div>	
 				</div>
 
-
-
 				<div class="tab-pane" id="h2tab2">
-					<div class="row" style="padding:20px;">
+					<div class="row" style="padding:20px;">						
 						<p>
-							Daniel Escobedo is a professional painter from Guadalajara, Mexico. He
-							holds a degree in Visual Arts from the University of Guadalajara. He works
-							primarily on a personal concept with influences from classical art to the
-							surrealist pop and lowbrow, his usual technique is oil on canvas. 
+							Daniel Escobedo is a professional painter from Guadalajara, Mexico. He holds a degree in Visual Arts from the University of Guadalajara. He works primarily on a personal concept with influences from classical art to the surrealist pop and lowbrow, his usual technique is oil on canvas. 
 						</p>
 						<p>
-							He has participated in group exhibitions and XV Salon of Young Plastic in
-							2006 and the Salon de la Hypermodernity in 2007, at the Center of Modern
-							Art AC. Torre Curro y Poncho cube gallery in 2008. Within his individual
-							proposals, there are two exhibitions, Omnipotent 2008, at the Forum of Art
-							and Culture and cherries in the Veins 2011 in the Casa Museum
-							Lopez Portillo.
+							He has participated in group exhibitions and XV Salon of Young Plastic in 2006 and the Salon de la Hypermodernity in 2007, at the Center of Modern Art AC. Torre Curro y Poncho cube gallery in 2008. Within his individual proposals, there are two exhibitions, Omnipotent 2008, at the Forum of Art and Culture and cherries in the Veins 2011 in the Casa Museum Lopez Portillo.
 						</p>
 						<p>
-							His work has been acknowledge by the Zoquipan’s hospital in 2007 as part
-							of the recognition “Art for Life”, also within the CUACO selection, collection
-							Alvarez del Castillo in 2008 and Gallery Atelier life in 2015.
+							His work has been acknowledged by the Zoquipan’s hospital in 2007 as part of the recognition “Art for Life”, also within the CUACO selection, collection Alvarez del Castillo in 2008 and Gallery Atelier life in 2015.
 						</p>
 
 						<h3>Justification</h3>
 						<p>
-							Art is a discipline, as such, is committed to offer the world ideas from a
-							creative mind, purposeful, conscious and committed to the relationship
-							between work-spectator to achieve a visual language and create dialogues
-							that encourage proposals as new forms of interpretation in art.
+							“Art is a discipline, as such, is committed to offer the world ideas from a creative mind, purposeful, conscious and committed to the relationship between work-spectator to achieve a visual language and create dialogues that encourage proposals as new forms of interpretation in art.
 						</p>
 						<p>
-							My art arises from the concern to address the development of creativity and
-							artistic skills manifested at an early age, and the need to experience the
-							creative abilities that eventually lead me to make the painting in my
-							profession.
+							My art arises from the concern to address the development of creativity and artistic skills manifested at an early age, and the need to experience the creative abilities that eventually lead me to make the painting in my profession.
 						</p>
 						<p>
-							My creative process arises from a constant link between consumption of
-							images and themes related to sarcasm and thoughtful reviews always
-							playful appearances. I am working with aesthetic elements that make
-							contrasts between classic and current, interacting with each other to achieve
-							surreal-pop compositions that refer to magic and spirituality as essential
-							tools in the contended of the work and message development.
+							My creative process arises from a constant link between consumption of images and themes related to sarcasm and thoughtful reviews with always playful appearances. I am working with aesthetic elements that make contrasts between classic and current, interacting with each other to achieve surreal-pop compositions that refer to magic and spirituality as essential tools in the contended of the work and message development.”
+							<p>
+								- Daniel Escobedo
+							</p>
 						</p>
-						
 					</div>					
 				</div>		
 							

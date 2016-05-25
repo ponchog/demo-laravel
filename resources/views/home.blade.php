@@ -354,7 +354,20 @@
 					</li>
 					<!-- slide 3 end -->
 
+					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
+						<!-- main image -->							
+						<img src="/images/artists/carlos/Diente_Estrella_59x43_oil_on_canvas.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">						
 
+						<!-- LAYER NR. 1 -->
+						<div class="tp-caption sft fadeout large_white"
+							data-x="left"
+							data-y="450"
+							data-speed="500"
+							data-easing="easeOutQuad"
+							data-start="1000"><a href="/artists/carlos-torres"><span style="font-size:44px;"><b>Carlos Torres</b></span> <br>Diente Estrella</a>
+						</div>					
+
+					</li>	
 					<!-- slide 4 start -->
 					<!-- ================ -->
 					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
@@ -372,22 +385,6 @@
 
 					</li>
 					<!-- slide 4 end -->
-
-					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
-						<!-- main image -->							
-						<img src="/images/artists/carlos/Diente_Estrella_59x43_oil_on_canvas.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">						
-
-						<!-- LAYER NR. 1 -->
-						<div class="tp-caption sft fadeout large_white"
-							data-x="left"
-							data-y="450"
-							data-speed="500"
-							data-easing="easeOutQuad"
-							data-start="1000"><a href="/artists/carlos-torres"><span style="font-size:44px;"><b>Carlos Torres</b></span> <br>Diente Estrella</a>
-						</div>					
-
-					</li>	
-
 
 					<!-- slide 5 start -->
 					<!-- ================ -->

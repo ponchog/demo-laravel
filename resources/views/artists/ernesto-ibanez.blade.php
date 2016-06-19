@@ -338,29 +338,35 @@
 
 						<div class="row" style="padding:20px;">
 							<p><b>INDIVIDUAL EXHIBITIONS</b></p>
-							<b>2011 “La Parvada” (The Flock)</b>, Patio Central Casa Museo López Portillo (Central Patio of the Museum House López Portillo), Guadalajara, Jalisco, Mexico<br>
-							<b>2011 “Painting and Sculpture”</b>, Josephine Gallery, San Antonio, Texas, USA<br>
-							<b>2012 “Universal Trash”</b>, Magnolia Salon del Arte (Magnolia Art Hall), San Antonio, Texas, USA<br>
-							<b>2013 “15 Artists”</b>, Gallery Nord, San Antonio, Texas, USA<br>
-							<b>2014 “Universal Trash, and El Bosque” (Universal Trash, and The Forest)</b>, Mexican Cultural Institute, San Antonio, Texas, USA<br>
 							<b>2015 “El Bosque” </b>UNAM San Antonio Texas, USA<br>
-							<b>2015 “El Bosque” </b>UNAM Chicago Illinois USA<br>
-							<b>2015 UTSA Silent Art auction</b>, San Antonio, Texas, USA<br>
+							<b>2014 “Universal Trash, and El Bosque” (Universal Trash, and The Forest)</b>, Mexican Cultural Institute, San Antonio, Texas, USA<br>
+							<b>2012 “Universal Trash”</b>, Magnolia Salon del Arte (Magnolia Art Hall), San Antonio, Texas, USA<br>							
+							<b>2011 “Painting and Sculpture”</b>, Josephine Gallery, San Antonio, Texas, USA<br>
+							<b>2011 “La Parvada” (The Flock)</b>, Patio Central Casa Museo López Portillo (Central Patio of the Museum House López Portillo), Guadalajara, Jalisco, Mexico<br>
+							
 							<br>
 							<p><b>COLLECTIVE EXHIBITIONS</b></p>
-							<b>2007 “Shampoo Negro” (Black Shampoo)</b>, Chai Café, Guadalajara, Jalisco, Mexico<br>
-							<b>2009 “It’s Ok to Cry”</b>, Galería HUMO (HUMO Gallery), Guadalajara, Jalisco, Mexico<br>
-							<b>2009 “XVIII Salon de la Escultura” (The Eighteenth Sculpture Hall),</b> Guadalajara Center of Modern Art<br>
-							<b>2010 La Casa Rosa (The Pink House)</b>, San Antonio, Texas, USA<br>
-							<b>2010 High Wire Art Gallery,</b> San Antonio, Texas, USA<br>
-							<b>2010 “80th Annual Artists Exhibition”,</b> San Antonio Art League and Museum, San Antonio,Texas, USA - <b>Won Award “Marcia Gygli King Award”</b><br>
-							<b>2011 “No Puedo Prometer Nada” (I Cannot Promise Anything),</b> Galería Jorge Martínez (Jorge Martinez Gallery), Guadalajara, Jalisco, Mexico<br>
-							<b>2011 “81st Annual Artists Exhibition”,</b> The San Antonio Art League and Museum, San Antonio, Texas, USA<br>
-							<b>2011 “Exposición de Colaboraciones” (Collaborations Exhibition),</b> La Casa Rosa (The Pink House), San Antonio, Texas, USA<br>
-							<b>2011 “Inspire’s on Fire”</b>, San Antonio, Texas, USA - <b>Won Award “Best of Show” with “Thousand Rabbits” piece.</b><br>
-							<b>2011 “Inspire’s on Fire”</b>,San Antonio Central Library, San Antonio, Texas, USA<br>
-							<b>2011 “La Parvada” (The Flock)</b>, Painting and Sculpture, Josephine Gallery, San Antonio, Texas, USA<br>
+							
+							<b>2016 “Be Part of the Party for the Arts UTSA”</b>, Brick at Blue Star San Antonio Texas, USA<br>
+							<b>2016 “Red Dot”</b>, Blue Star Contemporary San Antonio Texas, USA<br>
+							<b>2015 “Extra Ordinary”</b>, Cinnabar Gallery San Antonio Texas, USA<br>
+							<b>2015 “El Bosque”</b>, UNAM CHICAGO IL, USA<br>
+							<b>2015 “Be Part of the Party for the Arts UTSA”</b>, Plaza Club San Antonio Texas, USA<br>
+							<b>2014 “Art Night UTSA”</b>, Springhill Suites Marriott San Antonio Texas, USA<br>
+							<b>2013 “15 Artists”</b>, Gallery Nord, San Antonio, Texas, USA<br>
 							<b>2012 “Four Emerging San Antonio Artists”</b>, Gallery Nord, San Antonio, Texas, USA<br>
+							<b>2011 “La Parvada” (The Flock)</b>, Painting and Sculpture, Josephine Gallery, San Antonio, Texas, USA<br>
+							<b>2011 “Inspire’s on Fire”</b>,San Antonio Central Library, San Antonio, Texas, USA<br>
+							<b>2011 “Inspire’s on Fire”</b>, San Antonio, Texas, USA - <b>Won Award “Best of Show” with “Thousand Rabbits” piece.</b><br>
+							<b>2011 “Exposición de Colaboraciones” (Collaborations Exhibition),</b> La Casa Rosa (The Pink House), San Antonio, Texas, USA<br>
+							<b>2011 “81st Annual Artists Exhibition”,</b> The San Antonio Art League and Museum, San Antonio, Texas, USA<br>
+							<b>2011 “No Puedo Prometer Nada” (I Cannot Promise Anything),</b> Galería Jorge Martínez (Jorge Martinez Gallery), Guadalajara, Jalisco, Mexico<br>
+							<b>2010 “80th Annual Artists Exhibition”,</b> San Antonio Art League and Museum, San Antonio,Texas, USA - <b>Won Award “Marcia Gygli King Award”</b><br>
+							<b>2010 High Wire Art Gallery,</b> San Antonio, Texas, USA<br>
+							<b>2010 La Casa Rosa (The Pink House)</b>, San Antonio, Texas, USA<br>
+							<b>2009 “XVIII Salon de la Escultura” (The Eighteenth Sculpture Hall),</b> Guadalajara Center of Modern Art<br>
+							<b>2009 “It’s Ok to Cry”</b>, Galería HUMO (HUMO Gallery), Guadalajara, Jalisco, Mexico<br>
+							<b>2007 “Shampoo Negro” (Black Shampoo)</b>, Chai Café, Guadalajara, Jalisco, Mexico<br>
 							<br>
 						</div>	
 					</div>					

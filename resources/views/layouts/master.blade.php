@@ -164,7 +164,7 @@
 													<ul class="social-links circle animated-effect-1" style="margin-top: 0px;">
 														<li class="facebook"><a target="_blank" href="https://www.facebook.com/arteinternationalus"><i class="fa fa-facebook"></i></a></li>														
 														<li class="instagram"><a target="_blank" href="https://www.instagram.com/arteinternational"><i class="fa fa-instagram"></i></a></li>
-														<li class="pinterest"><a target="_blank" href="https://www.pinterest.com/arteinternation"><i class="fa fa-pinterest"></i></a></li>
+														<!-- <li class="pinterest"><a target="_blank" href="https://www.pinterest.com/arteinternation"><i class="fa fa-pinterest"></i></a></li> -->
 													</ul>													
 												</div>
 												<!-- header dropdown buttons end-->
@@ -219,7 +219,7 @@
 										<ul class="social-links circle animated-effect-1 margin-clear">
 											<li class="facebook"><a target="_blank" href="https://www.facebook.com/arteinternationalus"><i class="fa fa-facebook"></i></a></li>											
 											<li class="instagram"><a target="_blank" href="https://www.instagram.com/arteinternational"><i class="fa fa-instagram"></i></a></li>
-											<li class="pinterest"><a target="_blank" href="https://www.pinterest.com/arteinternation"><i class="fa fa-pinterest"></i></a></li>
+											<!-- <li class="pinterest"><a target="_blank" href="https://www.pinterest.com/arteinternation"><i class="fa fa-pinterest"></i></a></li> -->
 										</ul>
 										<div class="separator"></div>
 										<p class="text-center margin-clear">Copyright © 2016 <a target="_blank" href="#">Arte International</a>. All Rights Reserved</p>

@@ -103,7 +103,7 @@
 							<li class="flickr"><a target="_blank" href="http://www.flickr.com"><i class="fa fa-flickr"></i></a></li> -->
 							<li class="facebook"><a target="_blank" href="https://www.facebook.com/arteinternationalus"><i class="fa fa-facebook"></i></a></li>
 							<li class="instagram"><a target="_blank" href="https://www.instagram.com/arteinternational"><i class="fa fa-instagram"></i></a></li>
-							<li class="pinterest"><a target="_blank" href="https://www.pinterest.com/arteinternation"><i class="fa fa-pinterest"></i></a></li>
+							<!-- <li class="pinterest"><a target="_blank" href="https://www.pinterest.com/arteinternation"><i class="fa fa-pinterest"></i></a></li> -->
 						</ul>
 						<!-- <div class="separator-2 mt-20 "></div> -->
 						

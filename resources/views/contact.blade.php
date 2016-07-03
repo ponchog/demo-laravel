@@ -94,17 +94,10 @@
 							<li><i class="fa fa-phone pr-10"></i><abbr title="Phone">P:</abbr> +1 (210) 600-4126</li>							
 							<li><i class="fa fa-envelope pr-10"></i><a href="mailto:contact@arteinternationalus.com">contact@arteinternationalus.com</a></li>
 						</ul>
-						<ul class="social-links circle small margin-clear clearfix animated-effect-1">
-							<!-- <li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
-							<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
-							<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
-							<li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
-							<li class="youtube"><a target="_blank" href="http://www.youtube.com"><i class="fa fa-youtube-play"></i></a></li>
-							<li class="flickr"><a target="_blank" href="http://www.flickr.com"><i class="fa fa-flickr"></i></a></li> -->
+						<!-- <ul class="social-links circle small margin-clear clearfix animated-effect-1">							
 							<li class="facebook"><a target="_blank" href="https://www.facebook.com/arteinternationalus"><i class="fa fa-facebook"></i></a></li>
-							<li class="instagram"><a target="_blank" href="https://www.instagram.com/arteinternational"><i class="fa fa-instagram"></i></a></li>
-							<!-- <li class="pinterest"><a target="_blank" href="https://www.pinterest.com/arteinternation"><i class="fa fa-pinterest"></i></a></li> -->
-						</ul>
+							<li class="instagram"><a target="_blank" href="https://www.instagram.com/arteinternational"><i class="fa fa-instagram"></i></a></li>							
+						</ul> -->
 						<!-- <div class="separator-2 mt-20 "></div> -->
 						
 					</div>

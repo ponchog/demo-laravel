@@ -28,7 +28,8 @@ return [
     |
     */
 
-    'host' => env('MAIL_HOST', 'smtp.mailgun.org'),
+    // 'host' => env('MAIL_HOST', 'smtp.mailgun.org'),
+    'host' => env('MAIL_HOST', 'smtp-relay.gmail.com'),
 
     /*
     |--------------------------------------------------------------------------
@@ -54,7 +55,7 @@ return [
     |
     */
 
-    'from' => ['address' => null, 'name' => null],
+    'from' => ['address' => 'contact@arteinternationalus.com', 'name' => 'Arte International'],
 
     /*
     |--------------------------------------------------------------------------
@@ -81,6 +82,7 @@ return [
     */
 
     'username' => env('MAIL_USERNAME'),
+    // 'username' => 'contact@arteinternationalus.com',
 
     /*
     |--------------------------------------------------------------------------

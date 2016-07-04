@@ -79,6 +79,16 @@ Route::get('/artists/', function(){
 	return view('artists');
 });
 
+Route::get('/test', function(){
+	$data = array('email' => 'contact@arteinternationalus.com',
+				'name' => 'Test');
+	
+	Mail::send('emails.contact-email', $data, function ($m) use ($data) {
+        $m->from('contact@arteinternationalus.com', 'Arte International');
+        $m->to('ponchog@gmail.com', 'Test')->subject('This is the subject!');
+    });
+});
+
 
 
 /*

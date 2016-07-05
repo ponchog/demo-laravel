@@ -19,14 +19,14 @@ class EmailController extends Controller
             $body = Input::get('message');            
 
             $emailTo = 'contact@arteinternationalus.com';
-            $emailCC = array('alfonso.garcia@arteinternationalus.com',
-                                'ponchog@gmail.com');
-
             // $emailCC = array('alfonso.garcia@arteinternationalus.com',
-            //                     'ponchog@gmail.com',
-            //                     'ernesto.ibanez@arteinternationalus.com',
-            //                     'rebeca.trujillo@arteinternationalus.com',
-            //                     'laura.flores@arteinternationalus.com');
+            //                     'ponchog@gmail.com');
+
+            $emailCC = array('alfonso.garcia@arteinternationalus.com',
+                                'ponchog@gmail.com',
+                                'ernesto.ibanez@arteinternationalus.com',
+                                'rebeca.trujillo@arteinternationalus.com',
+                                'laura.flores@arteinternationalus.com');
 
 
             $data = array('name' => $name, 'email' => $email, 'body' => $body);

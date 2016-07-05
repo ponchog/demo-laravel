@@ -172,12 +172,12 @@
 
 												
 												<!-- header dropdown buttons -->
-												<!-- <div class="header-dropdown-buttons hidden-xs ">
+												<div class="header-dropdown-buttons hidden-xs ">
 													<ul class="social-links circle animated-effect-1" style="margin-top: 0px;">
 														<li class="facebook"><a target="_blank" href="https://www.facebook.com/arteinternationalus"><i class="fa fa-facebook"></i></a></li>														
 														<li class="instagram"><a target="_blank" href="https://www.instagram.com/arteinternational"><i class="fa fa-instagram"></i></a></li>														
 													</ul>													
-												</div> -->
+												</div>
 												<!-- header dropdown buttons end-->
 												
 											</div>
@@ -227,10 +227,10 @@
 											<li><a href="tel:+1 (210) 600-4126" class="link-dark"><i class="text-default fa fa-phone pl-10 pr-5"></i>+1 (210) 600-4126</a></li>
 											<li><a href="mailto:contact@arteinternationalus.com" class="link-dark"><i class="text-default fa fa-envelope-o pl-10 pr-5"></i>contact@arteinternationalus.com</a></li>
 										</ul>
-										<!-- <ul class="social-links circle animated-effect-1 margin-clear">
+										<ul class="social-links circle animated-effect-1 margin-clear">
 											<li class="facebook"><a target="_blank" href="https://www.facebook.com/arteinternationalus"><i class="fa fa-facebook"></i></a></li>											
 											<li class="instagram"><a target="_blank" href="https://www.instagram.com/arteinternational"><i class="fa fa-instagram"></i></a></li>											
-										</ul> -->
+										</ul>
 										<div class="separator"></div>
 										<p class="text-center margin-clear">Copyright © 2016 <a target="_blank" href="#">Arte International</a>. All Rights Reserved</p>
 									</div>

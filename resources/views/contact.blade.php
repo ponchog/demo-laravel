@@ -94,10 +94,10 @@
 							<li><i class="fa fa-phone pr-10"></i><abbr title="Phone">P:</abbr> +1 (210) 600-4126</li>							
 							<li><i class="fa fa-envelope pr-10"></i><a href="mailto:contact@arteinternationalus.com">contact@arteinternationalus.com</a></li>
 						</ul>
-						<!-- <ul class="social-links circle small margin-clear clearfix animated-effect-1">							
+						<ul class="social-links circle small margin-clear clearfix animated-effect-1">							
 							<li class="facebook"><a target="_blank" href="https://www.facebook.com/arteinternationalus"><i class="fa fa-facebook"></i></a></li>
 							<li class="instagram"><a target="_blank" href="https://www.instagram.com/arteinternational"><i class="fa fa-instagram"></i></a></li>							
-						</ul> -->
+						</ul>
 						<!-- <div class="separator-2 mt-20 "></div> -->
 						
 					</div>

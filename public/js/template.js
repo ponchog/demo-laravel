@@ -1080,9 +1080,11 @@
 			$("#contact-form").validate({
 				submitHandler: function(form) {
 					$('.submit-button').button("loading");
+					console.log('sending');
 					$.ajax({
 						type: "POST",
-						url: "php/email-sender.php",
+						// url: "php/email-sender.php",
+						url: "/send-contact-email",
 						data: {
 							"name": $("#contact-form #name").val(),
 							"email": $("#contact-form #email").val(),
@@ -1091,6 +1093,8 @@
 						},
 						dataType: "json",
 						success: function (data) {
+							console.log('success');
+							console.log(data);
 							if (data.sent == "yes") {
 								$("#MessageSent").removeClass("hidden");
 								$("#MessageNotSent").addClass("hidden");

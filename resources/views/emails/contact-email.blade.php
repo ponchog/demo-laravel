@@ -6,8 +6,16 @@
   </head>
   <body>
     <h2 style="text-align:center">Arte International</h2>
+    
     <div>
-      <p>Test</p>
+      <p style="text-align:center; font-weight:bold;">You have received a new message from the Arte International website!</p>
+      <hr>
+      <span>{{$name}}</span>
+      <br>
+      <span>{{$email}}</span>
+    </div>
+    <div>
+      <p>{{$body}}</p>
     </div>
   </body>
 </html>

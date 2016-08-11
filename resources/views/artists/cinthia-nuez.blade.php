@@ -32,32 +32,36 @@
 			<div class="tab-content">
 				<div class="tab-pane in active" id="h2tab1">
 					<div class="row" style="padding:20px;">				
-						<div class="shadow bordered">
+						{{-- <div class="shadow bordered">
 							<div class="overlay-container">
 								<img src="/images/artists/cinthia/caballero_sol.jpg" alt="">
 								<a href="/images/artists/cinthia/caballero_sol.jpg" class="overlay-link popup-img" title="First image title">
 									<i class="fa fa-plus"></i>
 								</a>
 							</div>
+						</div> --}}
+
+						<div class="shadow bordered">
+							<div class="overlay-container">
+								<img src="/images/artists/cinthia/Diana_29.13x23.6_oleo_on_wood.jpg" alt="">
+								<a href="/images/artists/cinthia/Diana_29.13x23.6_oleo_on_wood.jpg" class="overlay-link popup-img" title="First image title">
+									<i class="fa fa-plus"></i>
+								</a>
+							</div>
 						</div>
+
 						<div class="space-bottom"></div>
 						<div class="row grid-space-20">
-							<div class="col-xs-3">
+
+							<div class="col-xs-6">
 								<div class="overlay-container">
-									<img src="/images/artists/cinthia/escafandra 47x51- mixta.jpg" alt="">
-									<a href="/images/artists/cinthia/escafandra 47x51- mixta.jpg" class="overlay-link small popup-img" title="Second image title">
+									<img src="/images/artists/cinthia/caballero_sol.jpg" alt="">
+									<a href="/images/artists/cinthia/caballero_sol.jpg" class="overlay-link small popup-img" title="Second image title">
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
 							</div>
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/cinthia/Clown 7x10 oil on canvas.jpg" alt="">
-									<a href="/images/artists/cinthia/Clown 7x10 oil on canvas.jpg" class="overlay-link small popup-img" title="Third image title">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
+
 							<div class="col-xs-3">
 								<div class="overlay-container">
 									<img src="/images/artists/cinthia/Floreciendo 20x31.5- oil on canvas.jpg" alt="">
@@ -66,6 +70,20 @@
 									</a>
 								</div>
 							</div>
+
+							<div class="col-xs-3">
+								<div class="overlay-container">
+									<img src="/images/artists/cinthia/Clown 7x10 oil on canvas.jpg" alt="">
+									<a href="/images/artists/cinthia/Clown 7x10 oil on canvas.jpg" class="overlay-link small popup-img" title="Third image title">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>					
+						</div>
+
+						<div class="space-bottom"></div>
+						<div class="row grid-space-20">
+							
 							<div class="col-xs-3">
 								<div class="overlay-container">
 									<img src="/images/artists/cinthia/botas de payaso 47x59_ mixta.jpg" alt="">
@@ -74,9 +92,16 @@
 									</a>
 								</div>
 							</div>
-						</div>
-						<div class="space-bottom"></div>
-						<div class="row grid-space-20">
+
+							<div class="col-xs-3">
+								<div class="overlay-container">
+									<img src="/images/artists/cinthia/escafandra 47x51- mixta.jpg" alt="">
+									<a href="/images/artists/cinthia/escafandra 47x51- mixta.jpg" class="overlay-link small popup-img" title="Second image title">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
 							<div class="col-xs-3">
 								<div class="overlay-container">
 									<img src="/images/artists/cinthia/donas de cereal 59x51_mixta.jpg" alt="">
@@ -93,14 +118,53 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-xs-3">
+
+						</div>
+						
+						<div class="space-bottom"></div>
+						<div class="row grid-space-20">
+
+							<div class="col-xs-6">
 								<div class="overlay-container">
-									<img src="/images/artists/cinthia/was me on the road 12_circunference mixta.jpg" alt="">
-									<a href="/images/artists/cinthia/was me on the road 12_circunference mixta.jpg" class="overlay-link small popup-img" title="Fifth image title">
+									<img src="/images/artists/cinthia/Top_model_meditating_15.7x19.6_Oleo_on_wood.jpg" alt="">
+									<a href="/images/artists/cinthia/Top_model_meditating_15.7x19.6_Oleo_on_wood.jpg" class="overlay-link small popup-img" title="Fifth image title">
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
 							</div>
+
+							<div class="col-xs-6">
+								<div class="overlay-container">
+									<img src="/images/artists/cinthia/golden mickey 67x59_mixta.JPG" alt="">
+									<a href="/images/artists/cinthia/golden mickey 67x59_mixta.JPG" class="overlay-link small popup-img" title="Fifth image title">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+							
+						</div>
+
+						<div class="space-bottom"></div>
+						<div class="row grid-space-20">
+
+							<div class="col-xs-3">
+								<div class="overlay-container">
+									<img src="/images/artists/cinthia/heads up 67x59_ mixta.JPG" alt="">
+									<a href="/images/artists/cinthia/heads up 67x59_ mixta.JPG" class="overlay-link small popup-img" title="Fifth image title">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-3">
+								<div class="overlay-container">
+									<img src="/images/artists/cinthia/she is like a little bird 12x16_ collage paper-wood.JPG" alt="">
+									<a href="/images/artists/cinthia/she is like a little bird 12x16_ collage paper-wood.JPG" class="overlay-link small popup-img" title="Fifth image title">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
 							<div class="col-xs-3">
 								<div class="overlay-container">
 									<img src="/images/artists/cinthia/Smal but famous 39.5x39.5_ mixta.jpg" alt="">
@@ -109,6 +173,70 @@
 									</a>
 								</div>
 							</div>
+
+							<div class="col-xs-3">
+								<div class="overlay-container">
+									<img src="/images/artists/cinthia/escafandra vincent 43x43_ mixta.jpg" alt="">
+									<a href="/images/artists/cinthia/escafandra vincent 43x43_ mixta.jpg" class="overlay-link small popup-img" title="Fifth image title">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+							
+						</div>
+
+
+						<div class="space-bottom"></div>
+						<div class="row grid-space-20">
+
+							<div class="col-xs-4">
+								<div class="overlay-container">
+									<img src="/images/artists/cinthia/Crystal_11.8x11.8.jpg" alt="">
+									<a href="/images/artists/cinthia/Crystal_11.8x11.8.jpg" class="overlay-link small popup-img" title="Fifth image title">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-4">
+								<div class="overlay-container">
+									<img src="/images/artists/cinthia/love is delicious 14x14_ mixta.JPG" alt="">
+									<a href="/images/artists/cinthia/love is delicious 14x14_ mixta.JPG" class="overlay-link small popup-img" title="Fifth image title">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-4">
+								<div class="overlay-container">
+									<img src="/images/artists/cinthia/dos en uno12x16_ mixta.jpg" alt="">
+									<a href="/images/artists/cinthia/dos en uno12x16_ mixta.jpg" class="overlay-link small popup-img" title="Fifth image title">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+							
+						
+						</div>
+
+
+						<div class="space-bottom"></div>
+						<div class="row grid-space-20">	
+
+							<div class="col-xs-12">
+								<div class="overlay-container">
+									<img src="/images/artists/cinthia/was me on the road 12_circunference mixta.jpg" alt="">
+									<a href="/images/artists/cinthia/was me on the road 12_circunference mixta.jpg" class="overlay-link small popup-img" title="Fifth image title">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+
+
+							
+							
 						</div>
 					</div>			
 				</div>

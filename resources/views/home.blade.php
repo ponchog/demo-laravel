@@ -340,7 +340,8 @@
 					<!-- ================ -->
 					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
 						<!-- main image -->							
-						<img src="/images/artists/cinthia/5.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">						
+						{{-- <img src="/images/artists/cinthia/5.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover"> --}}
+						<img src="/images/artists/cinthia/Diana_29.13x23.6_oleo_on_wood.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">
 
 						<!-- LAYER NR. 1 -->
 						<div class="tp-caption sft fadeout large_white"
@@ -349,6 +350,8 @@
 							data-speed="500"
 							data-easing="easeOutQuad"
 							data-start="1000"><a href="/artists/cinthia-nuez"><span style="font-size:44px;"><b>Cinthia Nuez</b></span> <br>Caballero Sol</a>
+
+							
 						</div>
 					
 					</li>

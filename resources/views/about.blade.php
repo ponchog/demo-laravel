@@ -5,7 +5,8 @@
 
 <!-- banner start -->
 <!-- ================ -->
-<div class="banner dark-translucent-bg" style="background-image:url('images/page-about-banner-1a.jpg'); background-position: 50% 27%;">
+{{-- <div class="banner dark-translucent-bg" style="background-image:url('images/page-about-banner-1a.jpg'); background-position: 50% 27%;"> --}}
+<div class="banner dark-translucent-bg" style="background-image:url('images/parrot city 50x13_ acrilic on conavas.gif'); background-position: 50% 43%;">
 	<!-- breadcrumb start -->
 	<!-- ================ -->
 	<div class="breadcrumb-container">

@@ -23,74 +23,62 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('/services', function(){	
+	return view('services');
+});
+
+Route::get('/services/artists', function(){	
+	return view('services.artists');
+});
+
+Route::get('/services/galleries', function(){	
+	return view('services.galleries');
+});
+
+Route::get('/services/corporate', function(){
+	return view('services.corporate');
+});
+
+Route::post('/send-contact-email', 'EmailController@sendContactEmail');
+
+
+/*
+|--------------------------------------------------------------------------
+| Artists
+|--------------------------------------------------------------------------
+*/
+
+Route::get('/artists/', function(){
+	return view('artists');
+});
+
 Route::get('/artists/ernesto-ibanez', function(){
 	return view('artists.ernesto-ibanez');
 });
 
 Route::get('/artists/cinthia-nuez', function(){
 	return view('artists.cinthia-nuez');
-	// return view('artist-ernesto-ibanez');
 });
 
 Route::get('/artists/carlos-torres', function(){
 	return view('artists.carlos-torres');
-	// return view('artist-ernesto-ibanez');
 });
 
 Route::get('/artists/pulse', function(){
-	// return view('artist-pulse');
 	return view('artists.pulse');
 });
 
-Route::get('artists/daniel-escobedo', function(){
-	// return view('artist-daniel-escobedo');
+Route::get('/artists/daniel-escobedo', function(){
 	return view('artists.daniel-escobedo');
 });
 
-Route::get('/services', function(){
-	// return view('artist-daniel-escobedo');
-	return view('services');
+Route::get('/artists/jesus-villalpando', function(){
+	return view('artists.jesus-villalpando');
 });
 
-Route::get('/services/artists', function(){
-	// return view('artist-daniel-escobedo');
-	return view('services.artists');
+Route::get('/artists/fernando-andrade', function(){
+	return view('artists.fernando-andrade');
 });
-
-Route::get('/services/galleries', function(){
-	// return view('artist-daniel-escobedo');
-	return view('services.galleries');
-});
-
-Route::get('/services/corporate', function(){
-	// return view('artist-daniel-escobedo');
-	return view('services.corporate');
-});
-
-// Route::get('/artist', function(){
-// 	return view('artist');
-// });
-
-// Route::get('/artist2', function(){
-// 	return view('artist2');
-// });
-
-Route::get('/artists/', function(){
-	return view('artists');
-});
-
-Route::post('/send-contact-email', 'EmailController@sendContactEmail');
-
-// Route::get('/test', function(){
-// 	$data = array('email' => 'contact@arteinternationalus.com',
-// 				'name' => 'Test');
-	
-// 	Mail::send('emails.contact-email', $data, function ($m) use ($data) {
-//         $m->from('contact@arteinternationalus.com', 'Arte International');
-//         $m->to('ponchog@gmail.com', 'Test')->subject('This is the subject!');
-//     });
-// });
-
 
 
 /*

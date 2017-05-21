@@ -34,8 +34,8 @@
 					<div class="row" style="padding:20px;">
 						<div class="shadow bordered">
 							<div class="overlay-container">
-								<img src="/images/artists/patricia/2.jpg" alt="" style="display:inline-block;">
-								<a href="/images/artists/patricia/2.jpg" class="overlay-link popup-img" title=''>
+								<img src="/images/artists/roberto/1.jpg" alt="" style="display:inline-block;">
+								<a href="/images/artists/roberto/1.jpg" class="overlay-link popup-img" title=''>
 									<i class="fa fa-plus"></i>
 								</a>
 							</div>
@@ -44,22 +44,16 @@
 						<div class="space-bottom"></div>
 
 						<div class="row grid-space-20">
-							<div class="col-xs-6">
+							<div class="col-xs-1"></div>
+							<div class="col-xs-10">
 								<div class="overlay-container">
-									<img src="/images/artists/patricia/1.jpg" alt="">
-									<a href="/images/artists/patricia/1.jpg" class="overlay-link small popup-img" title=''>
+									<img src="/images/artists/roberto/5.jpg" alt="">
+									<a href="/images/artists/roberto/5.jpg" class="overlay-link small popup-img" title=''>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
-							</div>
-							<div class="col-xs-6">
-								<div class="overlay-container">
-									<img src="/images/artists/patricia/3.jpg" alt="">
-									<a href="/images/artists/patricia/3.jpg" class="overlay-link small popup-img" title=''>
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
+							</div>	
+							<div class="col-xs-1"></div>						
 						</div>
 
 						<div class="space-bottom"></div>
@@ -67,59 +61,37 @@
 						<div class="row grid-space-20">
 							<div class="col-xs-6">
 								<div class="overlay-container">
-									<img src="/images/artists/patricia/4.jpeg" alt="">
-									<a href="/images/artists/patricia/4.jpeg" class="overlay-link small popup-img" title=''>
+									<img src="/images/artists/roberto/3.jpg" alt="">
+									<a href="/images/artists/roberto/3.jpg" class="overlay-link small popup-img" title=''>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
 							</div>
+							
 							<div class="col-xs-6">
 								<div class="overlay-container">
-									<img src="/images/artists/patricia/5.jpeg" alt="">
-									<a href="/images/artists/patricia/5.jpeg" class="overlay-link small popup-img" title=''>
+									<img src="/images/artists/roberto/2.jpg" alt="">
+									<a href="/images/artists/roberto/2.jpg" class="overlay-link small popup-img" title=''>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
 							</div>
-						</div>
+						</div>						
 
-						<div class="space-bottom"></div>
+						<div class="space-bottom"></div>				
 
 						<div class="row grid-space-20">
 							<div class="col-xs-2"></div>
 							<div class="col-xs-8">
 								<div class="overlay-container">
-									<img src="/images/artists/patricia/6.jpg" alt="">
-									<a href="/images/artists/patricia/6.jpg" class="overlay-link small popup-img" title=''>
+									<img src="/images/artists/roberto/4.jpg" alt="">
+									<a href="/images/artists/roberto/4.jpg" class="overlay-link small popup-img" title=''>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
 							</div>
 							<div class="col-xs-2"></div>
 						</div>
-
-						<div class="space-bottom"></div>
-
-						<div class="row grid-space-20">							
-							<div class="col-xs-6">
-								<div class="overlay-container">
-									<img src="/images/artists/patricia/7.jpg" alt="">
-									<a href="/images/artists/patricia/7.jpg" class="overlay-link small popup-img" title=''>
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-							<div class="col-xs-6">
-								<div class="overlay-container">
-									<img src="/images/artists/patricia/8.jpg" alt="">
-									<a href="/images/artists/patricia/8.jpg" class="overlay-link small popup-img" title=''>
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="space-bottom"></div>				
 											
 					</div>			
 				</div>

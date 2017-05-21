@@ -80,6 +80,14 @@ Route::get('/artists/fernando-andrade', function(){
 	return view('artists.fernando-andrade');
 });
 
+Route::get('/artists/patricia-sanchez-saiffe', function(){
+	return view('artists.patricia-sanchez');
+});
+
+Route::get('/artists/roberto-morleghem', function(){
+	return view('artists.roberto-morleghem');
+});
+
 
 /*
 |--------------------------------------------------------------------------

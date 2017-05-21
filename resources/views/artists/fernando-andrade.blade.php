@@ -34,35 +34,13 @@
 					<div class="row" style="padding:20px;">
 						<div class="shadow bordered">
 							<div class="overlay-container">
-								<img src="/images/artists/fernando/You Belong in the NRA_GraphiteAndDebossedTextOnPaper_24x18in_2015.jpg" alt="">
-								<a href="/images/artists/fernando/You Belong in the NRA_GraphiteAndDebossedTextOnPaper_24x18in_2015.jpg" class="overlay-link popup-img" title='24" x 18" Graphite and debossed text on paper'>
+								<img src="/images/artists/fernando/viendo las nubes_GraphiteOnPaper_30x22in_2016.jpg" alt="">
+								<a href="/images/artists/fernando/viendo las nubes_GraphiteOnPaper_30x22in_2016.jpg" class="overlay-link popup-img" title='Viendo las nubes. 30" x 22" Graphite on paper'>
 									<i class="fa fa-plus"></i>
 								</a>
 							</div>
 						</div>
 						
-						<div class="space-bottom"></div>
-
-						<div class="row grid-space-20">
-							<div class="col-xs-6">
-								<div class="overlay-container">
-									<img src="/images/artists/fernando/viendo las nubes_GraphiteOnPaper_30x22in_2016.jpg" alt="">
-									<a href="/images/artists/fernando/viendo las nubes_GraphiteOnPaper_30x22in_2016.jpg" class="overlay-link small popup-img" title='Viendo las nubes. 30" x 22" Graphite on paper'>
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-
-							<div class="col-xs-6">
-								<div class="overlay-container">
-									<img src="/images/artists/fernando/A jugar la guerrita _StoneLithograph_22x15in_2011.jpg" alt="">
-									<a href="/images/artists/fernando/A jugar la guerrita _StoneLithograph_22x15in_2011.jpg" class="overlay-link small popup-img" title='A jugar a la guerrita. 22" x 15" Stone litograph'>
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-						</div>
-
 						<div class="space-bottom"></div>
 
 						<div class="row grid-space-20">
@@ -87,30 +65,56 @@
 
 						<div class="space-bottom"></div>
 
-						<div class="row grid-space-20">							
-
-							<div class="col-xs-4">
+						<div class="row grid-space-20">
+							<div class="col-xs-7">
 								<div class="overlay-container">
-									<img src="/images/artists/fernando/Espacio 7_AcrylicOnPaper_5x7in_2016.jpg" alt="">
-									<a href="/images/artists/fernando/Espacio 7_AcrylicOnPaper_5x7in_2016.jpg" class="overlay-link small popup-img" title='Espacio 7. 5" x 7" Acrylic on paper'>
+									<img src="/images/artists/fernando/A jugar la guerrita _StoneLithograph_22x15in_2011.jpg" alt="">
+									<a href="/images/artists/fernando/A jugar la guerrita _StoneLithograph_22x15in_2011.jpg" class="overlay-link small popup-img" title='A jugar a la guerrita. 22" x 15" Stone litograph'>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
 							</div>
 
-							<div class="col-xs-4">
+							<div class="col-xs-5">
 								<div class="overlay-container">
-									<img src="/images/artists/fernando/Espacio 4_AcrylicOnPaper_12x8in_2016.jpg" alt="">
-									<a href="/images/artists/fernando/Espacio 4_AcrylicOnPaper_12x8in_2016.jpg" class="overlay-link small popup-img" title='Espacio 4. 12" x 8" Acrylic on paper'>
+									<img src="/images/artists/fernando/You Belong in the NRA_GraphiteAndDebossedTextOnPaper_24x18in_2015.jpg" alt="">
+									<a href="/images/artists/fernando/You Belong in the NRA_GraphiteAndDebossedTextOnPaper_24x18in_2015.jpg" class="overlay-link small popup-img" title='24" x 18" Graphite and debossed text on paper'>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
 							</div>
+							
+						</div>
 
-							<div class="col-xs-4">
+						<div class="space-bottom"></div>
+
+						<div class="row grid-space-20">
+							<div class="col-xs-12">
 								<div class="overlay-container">
-									<img src="/images/artists/fernando/Espacio 9_AcrylicOnPaper_5x7in_2016.jpg" alt="">
-									<a href="/images/artists/fernando/Espacio 9_AcrylicOnPaper_5x7in_2016.jpg" class="overlay-link small popup-img" title='Espacio 9. 5" x 7" Acrylic on paper'>
+									<img src="/images/artists/fernando/Manos_Lithograph_WhiteInkBlackPaper_14x11in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Manos_Lithograph_WhiteInkBlackPaper_14x11in_2016.jpg" class="overlay-link small popup-img" title='Manos. 14" x 11" Litograph. White ink on black paper'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>							
+						</div>
+
+						<div class="space-bottom"></div>
+
+						<div class="row grid-space-20">
+							<div class="col-xs-6">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Pies_ColoredPencilsOnBlackPaper_14x11in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Pies_ColoredPencilsOnBlackPaper_14x11in_2016.jpg" class="overlay-link small popup-img" title='Pies. 14" x 11" Colored pencil on black paper'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>						
+
+							<div class="col-xs-6">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Cabeza_ColoredPencilOnBlackPaper_16x14in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Cabeza_ColoredPencilOnBlackPaper_16x14in_2016.jpg" class="overlay-link small popup-img" title='Cabeza. 16" x 14" Colored pencil on black paper'>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
@@ -120,6 +124,31 @@
 						<div class="space-bottom"></div>
 
 						<div class="row grid-space-20">
+							<div class="col-xs-2"></div>
+
+							<div class="col-xs-8">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Brazo_ColorPencilOnBlackPaper_16x14in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Brazo_ColorPencilOnBlackPaper_16x14in_2016.jpg" class="overlay-link small popup-img" title='Brazo. 16" x 14" Colored pencil on black paper'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-2"></div>
+						</div>						
+
+						<div class="space-bottom"></div>
+
+						<div class="row grid-space-20">
+							<div class="col-xs-6">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Asi es la vida 2_96x60in_acrylic.jpg" alt="">
+									<a href="/images/artists/fernando/Asi es la vida 2_96x60in_acrylic.jpg" class="overlay-link small popup-img" title='Asi es la vida 2. 96" x 60" Acrylic'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
 							<div class="col-xs-6">
 								<div class="overlay-container">
 									<img src="/images/artists/fernando/One Year_48x24in_acrylic_wood.jpg" alt="">
@@ -128,29 +157,11 @@
 									</a>
 								</div>
 							</div>
-
-							<div class="col-xs-6">
-								<div class="overlay-container">
-									<img src="/images/artists/fernando/Asi es la vida 2_96x60in_acrylic.jpg" alt="">
-									<a href="/images/artists/fernando/Asi es la vida 2_96x60in_acrylic.jpg" class="overlay-link small popup-img" title='Asi es la vida 2. 96" x 60" Acrylic'>
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>							
 						</div>
 
 						<div class="space-bottom"></div>
+
 						<div class="row grid-space-20">
-
-							<div class="col-xs-4">
-								<div class="overlay-container">
-									<img src="/images/artists/fernando/Asi es la vida_20x20in_acrylic_on_wood.jpg" alt="">
-									<a href="/images/artists/fernando/Asi es la vida_20x20in_acrylic_on_wood.jpg" class="overlay-link small popup-img" title='Asi es la vida. 20" x 20" Acrylic on wood'>
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-
 							<div class="col-xs-4">
 								<div class="overlay-container">
 									<img src="/images/artists/fernando/Untitled2_20x16in_acrylic.jpg" alt="">
@@ -169,134 +180,66 @@
 								</div>
 							</div>
 
+							<div class="col-xs-4">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Asi es la vida_20x20in_acrylic_on_wood.jpg" alt="">
+									<a href="/images/artists/fernando/Asi es la vida_20x20in_acrylic_on_wood.jpg" class="overlay-link small popup-img" title='Asi es la vida. 20" x 20" Acrylic on wood'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
 						</div>
-							
-
-								
-											
 
 						<div class="space-bottom"></div>
 
-							<div class="col-xs-3">
+						<div class="row grid-space-20">
+
+							{{-- <div class="col-xs-4">
 								<div class="overlay-container">
-									<img src="/images/artists/fernando/Cabeza_ColoredPencilOnBlackPaper_16x14in_2016.jpg" alt="">
-									<a href="/images/artists/fernando/Cabeza_ColoredPencilOnBlackPaper_16x14in_2016.jpg" class="overlay-link small popup-img" title='Cabeza. 16" x 14" Colored pencil on black paper'>
+									<img src="/images/artists/fernando/Espacio 7_AcrylicOnPaper_5x7in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Espacio 7_AcrylicOnPaper_5x7in_2016.jpg" class="overlay-link small popup-img" title='Espacio 7. 5" x 7" Acrylic on paper'>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
-							</div>
-
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/fernando/Brazo_ColorPencilOnBlackPaper_16x14in_2016.jpg" alt="">
-									<a href="/images/artists/fernando/Brazo_ColorPencilOnBlackPaper_16x14in_2016.jpg" class="overlay-link small popup-img" title='Brazo. 16" x 14" Colored pencil on black paper'>
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-
+							</div> --}}
 							
-
-							<div class="col-xs-3">
+							<div class="col-xs-5">
 								<div class="overlay-container">
-									<img src="/images/artists/fernando/Manos_Lithograph_WhiteInkBlackPaper_14x11in_2016.jpg" alt="">
-									<a href="/images/artists/fernando/Manos_Lithograph_WhiteInkBlackPaper_14x11in_2016.jpg" class="overlay-link small popup-img" title='Manos. 14" x 11" Litograph. White ink on black paper'>
+									<img src="/images/artists/fernando/Espacio 9_AcrylicOnPaper_5x7in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Espacio 9_AcrylicOnPaper_5x7in_2016.jpg" class="overlay-link small popup-img" title='Espacio 9. 5" x 7" Acrylic on paper'>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
 							</div>
-
-							<div class="col-xs-6">
+							<div class="col-xs-7">
 								<div class="overlay-container">
-									<img src="/images/artists/fernando/Pies_ColoredPencilsOnBlackPaper_14x11in_2016.jpg" alt="">
-									<a href="/images/artists/fernando/Pies_ColoredPencilsOnBlackPaper_14x11in_2016.jpg" class="overlay-link small popup-img" title='Pies. 14" x 11" Colored pencil on black paper'>
+									<img src="/images/artists/fernando/Espacio 4_AcrylicOnPaper_12x8in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Espacio 4_AcrylicOnPaper_12x8in_2016.jpg" class="overlay-link small popup-img" title='Espacio 4. 12" x 8" Acrylic on paper'>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
 							</div>
+						</div>							
 
-						<div class="space-bottom"></div>
-
-
+						<div class="space-bottom"></div>				
 											
 					</div>			
 				</div>
 
 				<div class="tab-pane" id="h2tab2">
-					<div class="row" style="padding:20px;">
+					<div class="row" style="padding:20px 50px 20px 50px;">
 						<p>
-							Ernesto Ibanez has worked with various materials such as: ceramics, cement, wood, metal, fiberglass, and resin.
-							Always aiming to take on new challenges and make full use of different materials. 
-							In the past four years the artist has concentrated his work on a technique that he developed in which the pieces
-							are covered with thousands of nails that simulate fur. This idea emerged from the search to propose something new.
-							He accomplished this by changing the nail’s context, from its original intent into something completely different.
-							Creating a great impact between the spectator and the work.
-						</p>
-
-						<h3>Justification</h3>
-						<p>
-							The art in the course of history has meaning as a fundamental expression of
-							human beings. Through the different art forms have been marked crucial
-							stages in the historical development of mankind.
-						</p>
-						<p>							
-							Meeting in art a strong attraction to express myself through the aesthetic
-							form composition and all that theory together with my way of seeing things
-							produce art. In the case of sculpture I find special interest in repeating
-							modules and how these modules together create a single element as a
-							whole. In painting I care about social issues not from a radical point but one
-							that seeks the peaceful consciousness using art as a means of expression.
+							Born in 1987 in the border town of Acuña, Mexico, Fernando Andrade has lived in San Antonio, Texas, since he was seven years old.   During Andrade's early childhood years, it was considered safe for children to play outside and he remembers playing outdoor games with his family during those years. Today, however, the neighborhood where Andrade was raised is troubled with ongoing violence brought on by the leaders of drug cartels.   Informed of the dire situation through stories told by friends and relatives, as well as by news reports, books, and online media, Andrade is disheartened that his hometown and other areas south of the U.S./Mexico border have become places of violence where people are disappearing or dying on a daily basis. Drug leaders intimidate and murder innocent victims, often disposing of bodies in barrels of acid or by filling garbage bags with body parts.  For Andrade, the situation became personal in 2012, when a friend of his went missing, never to be seen again.
 						</p>
 						<p>
-							I use nature as a means of inspiration and animal or organic forms in the
-							water, or land with trees, also find special inspiration in geometry straight
-							lines in my work I try to take away the apparent rigidity to make them more
-							functional.
+							As an artist, Andrade copes with the turmoil in his native homeland with two distinct bodies of work: figurative drawings and abstract paintings.  While the drawings are narrative explorations of the events taking place, the paintings are vehicles for nurturing feelings of hopeful joy and optimism.							
 						</p>
 						<p>
-							In my creative process you can be found multiple amount of materials
-							because I rely on first determine what to do and then decide what material is
-							appropriate for the weight, strength, aesthetics and durability.
+							In his figurative drawings, Andrade creates simple narratives based on stories he has heard about border violence.  Believing that everyone has their own childhood memories and can identify with the innocence of youth, Andrade stages his scenarios using children in place of adults, a strategy for enticing viewers to engage in his conversation.   He omits background details allowing viewers to project their own visualizations into each scene, and depicts wooden sticks, which he remembers playing with as a child, as metaphors for guns.  In his series A Jugar la Guerrita (To Play a Little War), a young boy appears with a stick that is spewing off-color phrases in Spanish, in reference to the corruption that now pervades the region.   In the series Tierra y Libertad (Land and Liberty), groups of children appear to be playing childhood games but, upon closer inspection, are surrogates for the perpetrators and their victims.  In his God Bless America series, Andrade calls attention to the dangers of guns by superimposing intricately detailed images of branches over barely visible phrases relating to the American gun culture.
 						</p>
-
-						<p><b>EDUCATION</b></p>
-						<p>2005-2010 Degree: Bachelor of Visual Arts (Sculptor)<br />
-						Guadalajara, Mexico Universidad de Guadalajara Mexico</p>
-						<div class="clear"></div>
-
-						<div class="row" style="padding:20px;">
-							<p><b>INDIVIDUAL EXHIBITIONS</b></p>
-							<b>2015 “El Bosque” </b>UNAM San Antonio Texas, USA<br>
-							<b>2014 “Universal Trash, and El Bosque” (Universal Trash, and The Forest)</b>, Mexican Cultural Institute, San Antonio, Texas, USA<br>
-							<b>2012 “Universal Trash”</b>, Magnolia Salon del Arte (Magnolia Art Hall), San Antonio, Texas, USA<br>							
-							<b>2011 “Painting and Sculpture”</b>, Josephine Gallery, San Antonio, Texas, USA<br>
-							<b>2011 “La Parvada” (The Flock)</b>, Patio Central Casa Museo López Portillo (Central Patio of the Museum House López Portillo), Guadalajara, Jalisco, Mexico<br>
-							
-							<br>
-							<p><b>COLLECTIVE EXHIBITIONS</b></p>
-							
-							<b>2016 “Be Part of the Party for the Arts UTSA”</b>, Brick at Blue Star San Antonio Texas, USA<br>
-							<b>2016 “Red Dot”</b>, Blue Star Contemporary San Antonio Texas, USA<br>
-							<b>2015 “Extra Ordinary”</b>, Cinnabar Gallery San Antonio Texas, USA<br>
-							<b>2015 “El Bosque”</b>, UNAM CHICAGO IL, USA<br>
-							<b>2015 “Be Part of the Party for the Arts UTSA”</b>, Plaza Club San Antonio Texas, USA<br>
-							<b>2014 “Art Night UTSA”</b>, Springhill Suites Marriott San Antonio Texas, USA<br>
-							<b>2013 “15 Artists”</b>, Gallery Nord, San Antonio, Texas, USA<br>
-							<b>2012 “Four Emerging San Antonio Artists”</b>, Gallery Nord, San Antonio, Texas, USA<br>
-							<b>2011 “La Parvada” (The Flock)</b>, Painting and Sculpture, Josephine Gallery, San Antonio, Texas, USA<br>
-							<b>2011 “Inspire’s on Fire”</b>,San Antonio Central Library, San Antonio, Texas, USA<br>
-							<b>2011 “Inspire’s on Fire”</b>, San Antonio, Texas, USA - <b>Won Award “Best of Show” with “Thousand Rabbits” piece.</b><br>
-							<b>2011 “Exposición de Colaboraciones” (Collaborations Exhibition),</b> La Casa Rosa (The Pink House), San Antonio, Texas, USA<br>
-							<b>2011 “81st Annual Artists Exhibition”,</b> The San Antonio Art League and Museum, San Antonio, Texas, USA<br>
-							<b>2011 “No Puedo Prometer Nada” (I Cannot Promise Anything),</b> Galería Jorge Martínez (Jorge Martinez Gallery), Guadalajara, Jalisco, Mexico<br>
-							<b>2010 “80th Annual Artists Exhibition”,</b> San Antonio Art League and Museum, San Antonio,Texas, USA - <b>Won Award “Marcia Gygli King Award”</b><br>
-							<b>2010 High Wire Art Gallery,</b> San Antonio, Texas, USA<br>
-							<b>2010 La Casa Rosa (The Pink House)</b>, San Antonio, Texas, USA<br>
-							<b>2009 “XVIII Salon de la Escultura” (The Eighteenth Sculpture Hall),</b> Guadalajara Center of Modern Art<br>
-							<b>2009 “It’s Ok to Cry”</b>, Galería HUMO (HUMO Gallery), Guadalajara, Jalisco, Mexico<br>
-							<b>2007 “Shampoo Negro” (Black Shampoo)</b>, Chai Café, Guadalajara, Jalisco, Mexico<br>
-							<br>
-						</div>	
+						<p>
+							In his abstract paintings, Andrade expresses a freedom from the anguish that underlies his figurative works.  Working improvisationally, the artist creates organic compositions that are colorful and animated.  Viewing his process as a kind of spiritual meditation, Andrade becomes free to imagine cosmic visions that have rhythmic affinities with music or dance, and which celebrate the splendor and preciousness of life itself.
+						</p>						
 					</div>					
 				</div>		
 			

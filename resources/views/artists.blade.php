@@ -128,6 +128,32 @@
 									</a>
 								</div>
 
+								<div class="col-sm-6 col-md-4 isotope-item">
+									<a href="/artists/patricia-sanchez-saiffe">
+										<div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center" style="cursor:pointer; padding-top: 15px;">
+											<div class="overlay-container">
+												<img src="/images/artists/patricia/2.jpg" alt="" style="max-height:230px; display:inline;">
+											</div>
+											<div class="body">
+												<h3>Patricia Sanchez Saiffe</h3>
+											</div>
+										</div>
+									</a>
+								</div>
+
+								<div class="col-sm-6 col-md-4 isotope-item">
+									<a href="/artists/roberto-morleghem">
+										<div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center" style="cursor:pointer; padding-top: 15px;">
+											<div class="overlay-container">
+												<img src="/images/artists/roberto/5.jpg" alt="" style="max-height:230px; display:inline;">
+											</div>
+											<div class="body">
+												<h3>Roberto Morleghem</h3>
+											</div>
+										</div>
+									</a>
+								</div>
+
 							</div>
 
 						</div>

@@ -48,14 +48,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/jesus/auto retrato con mascara de jaguar  35x48.jpg" alt="">
-									<a href="/images/artists/jesus/auto retrato con mascara de jaguar  35x48.jpg" class="overlay-link small popup-img" title="">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
+							
 							<div class="col-xs-3">
 								<div class="overlay-container">
 									<img src="/images/artists/jesus/El divorcio de Blanca Nieves.jpg" alt="">
@@ -65,17 +58,40 @@
 								</div>
 							</div>
 
+							<div class="col-xs-3">
+								<div class="overlay-container">
+									<img src="/images/artists/jesus/auto retrato con mascara de jaguar  35x48.jpg" alt="">
+									<a href="/images/artists/jesus/auto retrato con mascara de jaguar  35x48.jpg" class="overlay-link small popup-img" title="">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
 
 
 							
-							{{-- <div class="col-xs-3">
+							
+						</div>
+
+						<div class="space-bottom"></div>
+						<div class="row grid-space-20">
+							<div class="col-xs-5">
 								<div class="overlay-container">
 									<img src="/images/artists/jesus/felizes por siempre_print_27.5cmx19.5cm.jpg" alt="">
 									<a href="/images/artists/jesus/felizes por siempre_print_27.5cmx19.5cm.jpg" class="overlay-link small popup-img" title="">
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
-							</div>	 --}}	
+							</div>
+							<div class="col-xs-7">
+								<div class="overlay-container">
+									<img src="/images/artists/jesus/la chola majikaaa 27x71.jpg" alt="">
+									<a href="/images/artists/jesus/la chola majikaaa 27x71.jpg" class="overlay-link small popup-img" title="">
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
 						</div>						
 
 						

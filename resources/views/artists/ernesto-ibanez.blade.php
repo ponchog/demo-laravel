@@ -319,19 +319,9 @@
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
-							</div>	
-
-						
-
-
-							
-						
-
-							
-
+							</div>
 						</div>
-						
-					</div>			
+					</div>
 				</div>
 
 
@@ -416,13 +406,21 @@
 			
 				<div class="tab-pane" id="h2tab3">
 					<div class="row" style="padding:40px 0">
-						<div class="col-md-6 text-center">
-							<iframe width="460" height="285" src="https://www.youtube.com/embed/l9nFidOJYMs" frameborder="0" allowfullscreen></iframe>							
+						<div class="col-md-12 text-center">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/l9nFidOJYMs?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>							
 						</div>					
-					<!-- </div>
-					<div class="row"> -->
-						<div class="col-md-6 text-center">
-							<iframe width="460" height="285" src="https://www.youtube.com/embed/bsZmFkvWTdM" frameborder="0" allowfullscreen></iframe>
+					</div>
+
+					<div class="row" style="padding:40px 0">
+						<div class="col-md-12 text-center">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/bsZmFkvWTdM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+						</div>
+					</div>
+
+					<div class="row" style="padding:40px 0">
+						<div class="col-md-12 text-center">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/Al6DNRyNA98?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 						</div>						
 					</div>
 

@@ -18,7 +18,7 @@
 
 	<section class="main-container" style="padding:0px;">
 		<div class="container">
-			<h1>Fernando Andrade</h1>	
+			<h1>Fernando Andrade</h1>
 			<!-- tabs start -->
 			<!-- ================ -->
 			<!-- Nav tabs -->
@@ -26,192 +26,28 @@
 				<li class="active"><a href="#h2tab1" role="tab" data-toggle="tab">Artwork</a></li>
 				<li><a href="#h2tab2" role="tab" data-toggle="tab">Bio</a></li>
 				<!-- <li><a href="#h2tab3" role="tab" data-toggle="tab">Exhibits</a></li> -->
-				<li><a href="#h2tab3" role="tab" data-toggle="tab">Creative Process</a></li>
+				{{-- <li><a href="#h2tab3" role="tab" data-toggle="tab">Creative Process</a></li> --}}
 			</ul>
 			<!-- Tab panes -->
 			<div class="tab-content">
 				<div class="tab-pane in active" id="h2tab1">
-					<div class="row" style="padding:20px;">				
+					<div class="row" style="padding:20px;">
 						<div class="shadow bordered">
 							<div class="overlay-container">
-								<img src="/images/artists/ernesto/curcuma 89x33x47_ mix media and nails.gif" alt="">
-								<a href="/images/artists/ernesto/curcuma 89x33x47_ mix media and nails.gif" class="overlay-link popup-img" title="89x33x47 mix media and nails">
+								<img src="/images/artists/fernando/You Belong in the NRA_GraphiteAndDebossedTextOnPaper_24x18in_2015.jpg" alt="">
+								<a href="/images/artists/fernando/You Belong in the NRA_GraphiteAndDebossedTextOnPaper_24x18in_2015.jpg" class="overlay-link popup-img" title='24" x 18" Graphite and debossed text on paper'>
 									<i class="fa fa-plus"></i>
 								</a>
 							</div>
 						</div>
-						<div class="space-bottom"></div>
-						<div class="row grid-space-20">
-							
-							{{-- <div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/parrot city 50x13_ acrilic on conavas.gif" alt="">
-									<a href="/images/artists/ernesto/parrot city 50x13_ acrilic on conavas.gif" class="overlay-link small popup-img" title="50x13 acrilic on canvas">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>														 --}}
-
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/asexual 80x80_ acrilic on canvas.gif" alt="">
-									<a href="/images/artists/ernesto/asexual 80x80_ acrilic on canvas.gif" class="overlay-link small popup-img" title="80x80 acrilic on canvas">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/andrea 33x32_ oil on panel.GIF" alt="">
-									<a href="/images/artists/ernesto/andrea 33x32_ oil on panel.GIF" class="overlay-link small popup-img" title="33x32 oil on panel">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-
-
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/popcorn 45x35_mix media.gif" alt="">
-									<a href="/images/artists/ernesto/popcorn 45x35_mix media.gif" class="overlay-link small popup-img" title="45x35 mix media">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>												
-							
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/kalakagua 54x52_ mix medias on canvas.GIF" alt="">
-									<a href="/images/artists/ernesto/kalakagua 54x52_ mix medias on canvas.GIF" class="overlay-link small popup-img" title="54x52 mix medias on canvas">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>		
-						</div>						
-
-						<div class="space-bottom"></div>
-
-						<div class="row grid-space-20">
-														
-							<div class="col-xs-8">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/hunter 71x43_oil on canvas .GIF" alt="">
-									<a href="/images/artists/ernesto/hunter 71x43_oil on canvas .GIF" class="overlay-link small popup-img" title="71x43 oil on canvas">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-			
-							<div class="col-xs-4">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/black46x33_ mix media on canvas.GIF" alt="">
-									<a href="/images/artists/ernesto/black46x33_ mix media on canvas.GIF" class="overlay-link small popup-img" title="46x33 mix media on canvas">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="space-bottom"></div>
-
-						<div class="row grid-space-20">
-							
-							
-							
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/teddy bear 53x42_ mix media on canvas.GIF" alt="">
-									<a href="/images/artists/ernesto/teddy bear 53x42_ mix media on canvas.GIF" class="overlay-link small popup-img" title="53x42 mix media on canvas">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-																			
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/pig 48x35_ mix media ok canvas.gif" alt="">
-									<a href="/images/artists/ernesto/pig 48x35_ mix media ok canvas.gif" class="overlay-link small popup-img" title="48x35 mix media ok canvas">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/plastic bottle 36x26_ mix media on canvas.GIF" alt="">
-									<a href="/images/artists/ernesto/plastic bottle 36x26_ mix media on canvas.GIF" class="overlay-link small popup-img" title="36x26 mix media on canvas">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/panal_56x56x60_cardboard_assembly.jpg" alt="">
-									<a href="/images/artists/ernesto/panal_56x56x60_cardboard_assembly.jpg" class="overlay-link small popup-img" title="56x56x60 cardboard assembly">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="space-bottom"></div>
 						
-						<div class="row grid-space-20">
-							
-						</div>
-
-						<div class="space-bottom"></div>
-						
-						<div class="row grid-space-20">
-
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/Azulic 13x8x10_ mix media and nails.GIF" alt="">
-									<a href="/images/artists/ernesto/Azulic 13x8x10_ mix media and nails.GIF" class="overlay-link small popup-img" title="13x8x10 mix media and nails">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/eufrosina 9x14x12_  mix media and nails.gif" alt="">
-									<a href="/images/artists/ernesto/eufrosina 9x14x12_  mix media and nails.gif" class="overlay-link small popup-img" title="9x14x12 mix media and nails">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/loto 30x40x25 mix media and nails.gif" alt="">
-									<a href="/images/artists/ernesto/loto 30x40x25 mix media and nails.gif" class="overlay-link small popup-img" title="30x40x25 mix media and nails">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/thousand Rabbits 25x13x12 wood and nails.GIF" alt="">
-									<a href="/images/artists/ernesto/thousand Rabbits 25x13x12 wood and nails.GIF" class="overlay-link small popup-img" title="25x13x12 wood and nails">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-							
-						</div>
-
 						<div class="space-bottom"></div>
 
 						<div class="row grid-space-20">
-
 							<div class="col-xs-6">
 								<div class="overlay-container">
-									<img src="/images/artists/ernesto/Owen_Wild_pig_16x13x17_mixed_media_and_nails(2).jpeg" alt="">
-									<a href="/images/artists/ernesto/Owen_Wild_pig_16x13x17_mixed_media_and_nails(2).jpeg" class="overlay-link small popup-img" title="13x8x10 mix media and nails">
+									<img src="/images/artists/fernando/viendo las nubes_GraphiteOnPaper_30x22in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/viendo las nubes_GraphiteOnPaper_30x22in_2016.jpg" class="overlay-link small popup-img" title='Viendo las nubes. 30" x 22" Graphite on paper'>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
@@ -219,30 +55,8 @@
 
 							<div class="col-xs-6">
 								<div class="overlay-container">
-									<img src="/images/artists/ernesto/Owen_Wild_pig_16x13x17_mixed_media_and_nails.jpeg" alt="">
-									<a href="/images/artists/ernesto/Owen_Wild_pig_16x13x17_mixed_media_and_nails.jpeg" class="overlay-link small popup-img" title="13x8x10 mix media and nails">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-						</div>						
-
-						<div class="space-bottom"></div>
-
-						<div class="row grid-space-20">
-							<div class="col-xs-8">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/andrea 50x8x23_ mis media and nails.JPG" alt="">
-									<a href="/images/artists/ernesto/andrea 50x8x23_ mis media and nails.JPG" class="overlay-link small popup-img" title="50x8x23 mix media and nails">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-
-							<div class="col-xs-4">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/andrea 50x8x23 mix media and nails.JPG" alt="">
-									<a href="/images/artists/ernesto/andrea 50x8x23 mix media and nails.JPG" class="overlay-link small popup-img" title="50x8x23 mix media and nails">
+									<img src="/images/artists/fernando/A jugar la guerrita _StoneLithograph_22x15in_2011.jpg" alt="">
+									<a href="/images/artists/fernando/A jugar la guerrita _StoneLithograph_22x15in_2011.jpg" class="overlay-link small popup-img" title='A jugar a la guerrita. 22" x 15" Stone litograph'>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
@@ -250,63 +64,161 @@
 						</div>
 
 						<div class="space-bottom"></div>
+
+						<div class="row grid-space-20">
+							<div class="col-xs-6">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/H_GraphiteOnPaper_30x22in_2014.jpg" alt="">
+									<a href="/images/artists/fernando/H_GraphiteOnPaper_30x22in_2014.jpg" class="overlay-link small popup-img" title='H. 30" x 22" Graphite on paper'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-6">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/pinata_GraphiteOnPaper_30x22in_2014.jpg" alt="">
+									<a href="/images/artists/fernando/pinata_GraphiteOnPaper_30x22in_2014.jpg" class="overlay-link small popup-img" title='Piñata. 30" x 22" Graphite on paper'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+
+						<div class="space-bottom"></div>
+
+						<div class="row grid-space-20">							
+
+							<div class="col-xs-4">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Espacio 7_AcrylicOnPaper_5x7in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Espacio 7_AcrylicOnPaper_5x7in_2016.jpg" class="overlay-link small popup-img" title='Espacio 7. 5" x 7" Acrylic on paper'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-4">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Espacio 4_AcrylicOnPaper_12x8in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Espacio 4_AcrylicOnPaper_12x8in_2016.jpg" class="overlay-link small popup-img" title='Espacio 4. 12" x 8" Acrylic on paper'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-4">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Espacio 9_AcrylicOnPaper_5x7in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Espacio 9_AcrylicOnPaper_5x7in_2016.jpg" class="overlay-link small popup-img" title='Espacio 9. 5" x 7" Acrylic on paper'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+
+						<div class="space-bottom"></div>
+
+						<div class="row grid-space-20">
+							<div class="col-xs-6">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/One Year_48x24in_acrylic_wood.jpg" alt="">
+									<a href="/images/artists/fernando/One Year_48x24in_acrylic_wood.jpg" class="overlay-link small popup-img" title='One year. 48" x 24" Acrylic on wood'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-6">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Asi es la vida 2_96x60in_acrylic.jpg" alt="">
+									<a href="/images/artists/fernando/Asi es la vida 2_96x60in_acrylic.jpg" class="overlay-link small popup-img" title='Asi es la vida 2. 96" x 60" Acrylic'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>							
+						</div>
+
+						<div class="space-bottom"></div>
+						<div class="row grid-space-20">
+
+							<div class="col-xs-4">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Asi es la vida_20x20in_acrylic_on_wood.jpg" alt="">
+									<a href="/images/artists/fernando/Asi es la vida_20x20in_acrylic_on_wood.jpg" class="overlay-link small popup-img" title='Asi es la vida. 20" x 20" Acrylic on wood'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-4">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Untitled2_20x16in_acrylic.jpg" alt="">
+									<a href="/images/artists/fernando/Untitled2_20x16in_acrylic.jpg" class="overlay-link small popup-img" title='Untitled. 20" x 16" Acrylic'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-4">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Untitled_20x16in_acrylic.jpg" alt="">
+									<a href="/images/artists/fernando/Untitled_20x16in_acrylic.jpg" class="overlay-link small popup-img" title='Untitled. 20" x 16" Acrylic'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+						</div>
 							
-						<div class="row grid-space-20">	
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/cedrik 17x16x17_ mix media and naisl.GIF" alt="">
-									<a href="/images/artists/ernesto/cedrik 17x16x17_ mix media and naisl.GIF" class="overlay-link small popup-img" title="17x16x17 mix media and naisl">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-							<div class="col-xs-4">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/naos 42x37x40_ steel.GIF" alt="">
-									<a href="/images/artists/ernesto/naos 42x37x40_ steel.GIF" class="overlay-link small popup-img" title="42x37x40 steel">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/kasei 13x7x8_ mix medix and nails.JPG" alt="">
-									<a href="/images/artists/ernesto/kasei 13x7x8_ mix medix and nails.JPG" class="overlay-link small popup-img" title="13x7x8 mix medix and nails">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-							<div class="col-xs-3">
-								<div class="overlay-container">
-									<img src="/images/artists/ernesto/star 51x18x23_cardboard.GIF" alt="">
-									<a href="/images/artists/ernesto/star 51x18x23_cardboard.GIF" class="overlay-link small popup-img" title="51x18x23 cardboard">
-										<i class="fa fa-plus"></i>
-									</a>
-								</div>
-							</div>
-						</div>
+
+								
+											
 
 						<div class="space-bottom"></div>
 
-						<div class="row grid-space-20">
 							<div class="col-xs-3">
 								<div class="overlay-container">
-									<img src="/images/artists/ernesto/nafre 35x13x12 wood .GIF" alt="">
-									<a href="/images/artists/ernesto/nafre 35x13x12 wood .GIF" class="overlay-link small popup-img" title="35x13x12 wood">
+									<img src="/images/artists/fernando/Cabeza_ColoredPencilOnBlackPaper_16x14in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Cabeza_ColoredPencilOnBlackPaper_16x14in_2016.jpg" class="overlay-link small popup-img" title='Cabeza. 16" x 14" Colored pencil on black paper'>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
 							</div>
 
-							<div class="col-xs-4">
+							<div class="col-xs-3">
 								<div class="overlay-container">
-									<img src="/images/artists/ernesto/pinoccio 90x40x20_ wood.GIF" alt="">
-									<a href="/images/artists/ernesto/pinoccio 90x40x20_ wood.GIF" class="overlay-link small popup-img" title="90x40x20 wood">
+									<img src="/images/artists/fernando/Brazo_ColorPencilOnBlackPaper_16x14in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Brazo_ColorPencilOnBlackPaper_16x14in_2016.jpg" class="overlay-link small popup-img" title='Brazo. 16" x 14" Colored pencil on black paper'>
 										<i class="fa fa-plus"></i>
 									</a>
 								</div>
 							</div>
-						</div>						
+
+							
+
+							<div class="col-xs-3">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Manos_Lithograph_WhiteInkBlackPaper_14x11in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Manos_Lithograph_WhiteInkBlackPaper_14x11in_2016.jpg" class="overlay-link small popup-img" title='Manos. 14" x 11" Litograph. White ink on black paper'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-xs-6">
+								<div class="overlay-container">
+									<img src="/images/artists/fernando/Pies_ColoredPencilsOnBlackPaper_14x11in_2016.jpg" alt="">
+									<a href="/images/artists/fernando/Pies_ColoredPencilsOnBlackPaper_14x11in_2016.jpg" class="overlay-link small popup-img" title='Pies. 14" x 11" Colored pencil on black paper'>
+										<i class="fa fa-plus"></i>
+									</a>
+								</div>
+							</div>
+
+						<div class="space-bottom"></div>
+
+
+											
 					</div>			
 				</div>
 

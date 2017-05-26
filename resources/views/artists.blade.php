@@ -119,7 +119,7 @@
 									<a href="/artists/fernando-andrade">
 										<div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center" style="cursor:pointer; padding-top: 15px;">
 											<div class="overlay-container">
-												<img src="/images/artists/fernando/viendo las nubes_GraphiteOnPaper_30x22in_2016.jpg" alt="" style="max-height:230px; display:inline;">											
+												<img src="/images/artists/fernando/viendo_las_nubes_GraphiteOnPaper_30x22in_2016.jpg" alt="" style="max-height:230px; display:inline;">											
 											</div>
 											<div class="body">
 												<h3>Fernando Andrade</h3>

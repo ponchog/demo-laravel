@@ -34,8 +34,8 @@
 					<div class="row" style="padding:20px;">
 						<div class="shadow bordered">
 							<div class="overlay-container">
-								<img src="/images/artists/fernando/viendo las nubes_GraphiteOnPaper_30x22in_2016.jpg" alt="">
-								<a href="/images/artists/fernando/viendo las nubes_GraphiteOnPaper_30x22in_2016.jpg" class="overlay-link popup-img" title='Viendo las nubes. 30" x 22" Graphite on paper'>
+								<img src="/images/artists/fernando/viendo_las_nubes_GraphiteOnPaper_30x22in_2016.jpg" alt="">
+								<a href="/images/artists/fernando/viendo_las_nubes_GraphiteOnPaper_30x22in_2016.jpg" class="overlay-link popup-img" title='Viendo las nubes. 30" x 22" Graphite on paper'>
 									<i class="fa fa-plus"></i>
 								</a>
 							</div>

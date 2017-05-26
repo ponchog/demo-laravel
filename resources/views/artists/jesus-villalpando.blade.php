@@ -101,7 +101,16 @@
 				<div class="tab-pane" id="h2tab2">
 					<div class="row" style="padding:20px;">
 						<p>
-							...
+							Passion and strength are the characteristics that Villalpando considers define his work. Although, he knows that there are different opinions about him, he considers that the passion and strength he impregnates in his canvases is the reason why criticism is attracted to him.
+						</p>
+						<p>
+							Villalpando gives great importance to music, and even confesses that initially he found inspiration in the visual art of different album covers. Although, most of his work is on a canvas, he also devotes part of his time to making murals and graffiti, the latter being the fundamental basis of his work.
+						</p>
+						<p>
+							He also confesses that he enjoys the challenge of facing a new canvas, because he finds painting as a therapy, something that generates a bond with his thoughts, dreams and emotions and as a way to face his fears and nightmares.
+						</p>
+						<p>
+							Villalpando seeks to create with his art, languages ​​that generate a connection between his works and human thought.
 						</p>						
 					</div>					
 				</div>		

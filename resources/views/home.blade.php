@@ -265,7 +265,7 @@
 						<img src="/images/misc/bridge.jpg" alt="exhibition" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="contain">
 					</li>
 					<!-- ================ -->
-					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">
+					{{-- <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">
 						
 						<!-- main image -->
 						<!-- <img src="/images/artists/ernesto/1.gif" alt="slidebg1" data-bgposition="center top"  data-bgrepeat="no-repeat" data-bgfit="cover"> -->
@@ -329,58 +329,27 @@
 							data-easing="easeOutQuad"
 							data-endspeed="600"><a href="/about" class="btn btn-default btn-lg btn-animated">Learn More <i class="fa fa-paint-brush"></i></a>
 						</div>						
-					</li>
+					</li> --}}
 					<!-- slide 1 end -->
 
-
-					<!-- slide 2 start -->
-					<!-- ================ -->
-					
-					<!-- slide 2 end -->
-
-					{{-- <a href="#"> --}}
-					
-
-					<!-- slide 3 start -->
-					<!-- ================ -->
-					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
-						<!-- main image -->							
-						{{-- <img src="/images/artists/cinthia/5.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover"> --}}
-						<img src="/images/artists/cinthia/Diana_29.13x23.6_oleo_on_wood.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">
+					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">
+						<!-- main image -->													
+						{{-- <img src="/images/artists/ernesto/banner_1.png" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover"> --}}
+						<img src="/images/artists/patricia/2.jpg" alt="slidebg2" data-bgposition="50% 25%"  data-bgrepeat="no-repeat" data-bgfit="cover">
 
 						<!-- LAYER NR. 1 -->
 						<div class="tp-caption sft fadeout large_white"
-							data-x="left"
+							data-x="right"
 							data-y="450"
 							data-speed="500"
 							data-easing="easeOutQuad"
-							data-start="1000"><a href="/artists/cinthia-nuez"><span style="font-size:44px;"><b>Cinthia Nuez</b></span> <br>Diana</a>
-
-							
-						</div>
-					
-					</li>
-					<!-- slide 3 end -->
-
-					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
-						<!-- main image -->							
-						<img src="/images/artists/carlos/Diente_Estrella_59x43_oil_on_canvas.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">						
-
-						<!-- LAYER NR. 1 -->
-						<div class="tp-caption sft fadeout large_white"
-							data-x="left"
-							data-y="450"
-							data-speed="500"
-							data-easing="easeOutQuad"
-							data-start="1000"><a href="/artists/carlos-torres"><span style="font-size:44px;"><b>Carlos Torres</b></span> <br>Diente Estrella</a>
+							data-start="1000"><a href="/artists/patricia-sanchez-saiffe"><span style="font-size:44px;"><b>Patricia Sánchez Saiffe</b></span> <br>Al Alba</a>							
 						</div>					
+					</li>
 
-					</li>	
-					<!-- slide 4 start -->
-					<!-- ================ -->
-					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
-						<!-- main image -->
-						<img src="/images/artists/ernesto/panal_56x56x60_cardboard_assembly.jpg" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="cover">								 
+					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">
+						<!-- main image -->																			
+						<img src="/images/artists/ernesto/banner_1.gif" alt="slidebg2" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="contain">
 
 						<!-- LAYER NR. 1 -->
 						<div class="tp-caption sft fadeout large_white"
@@ -388,14 +357,10 @@
 							data-y="450"
 							data-speed="500"
 							data-easing="easeOutQuad"
-							data-start="1000"><a href="/artists/ernesto-ibanez"><span style="font-size:44px;"><b>Ernesto Ibañez</b></span> <br>Panal</a>
-						</div>						
-
+							data-start="1000"><a href="/artists/ernesto-ibanez"><span style="font-size:44px; color: #333;"><b>Ernesto Ibañez</b></span><br><span style="color: #333;">Curcuma</span></a>
+						</div>					
 					</li>
-					<!-- slide 4 end -->
 
-					<!-- slide 5 start -->
-					<!-- ================ -->
 					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">					
 						<!-- main image -->							
 						<img src="/images/artists/daniel/8b.jpg" alt="slidebg2" data-bgposition="center top"  data-bgrepeat="no-repeat" data-bgfit="cover">						
@@ -407,9 +372,40 @@
 							data-speed="500"
 							data-easing="easeOutQuad"
 							data-start="1000"><a href="/artists/daniel-escobedo"><span style="font-size:44px;"><b>Daniel Escobedo</b></span> <br>Answers</a>
-						</div>					
+						</div>
 
 					</li>
+				
+
+
+					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">
+						<!-- main image -->													
+						<img src="/images/artists/cinthia/Diana_29.13x23.6_oleo_on_wood.jpg" alt="slidebg2" data-bgposition="50% 65%"  data-bgrepeat="no-repeat" data-bgfit="cover">
+
+						<!-- LAYER NR. 1 -->
+						<div class="tp-caption sft fadeout large_white"
+							data-x="left"
+							data-y="450"
+							data-speed="500"
+							data-easing="easeOutQuad"
+							data-start="1000"><a href="/artists/cinthia-nuez"><span style="font-size:44px;"><b>Cinthia Nuez</b></span> <br>Diana</a>
+						</div>					
+					</li>
+
+					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">
+						<!-- main image -->													
+						<img src="/images/artists/fernando/viendo_las_nubes_GraphiteOnPaper_30x22in_2016.jpg" alt="slidebg2" data-bgposition="50% 75%"  data-bgrepeat="no-repeat" data-bgfit="cover">						
+
+						<!-- LAYER NR. 1 -->
+						<div class="tp-caption sft fadeout large_white"
+							data-x="left"
+							data-y="450"
+							data-speed="500"
+							data-easing="easeOutQuad"
+							data-start="1000"><a href="/artists/fernando-andrade"><span style="font-size:44px;"><b>Fernando Andrade</b></span><br>Viendo las nubes</a>							
+						</div>					
+					</li>
+
 
 					<!-- slide 5 start -->
 					<!-- ================ -->

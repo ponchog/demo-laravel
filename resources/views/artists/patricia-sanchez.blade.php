@@ -127,7 +127,13 @@
 				<div class="tab-pane" id="h2tab2">
 					<div class="row" style="padding:20px 50px 20px 50px;">
 						<p>
-							...
+							She is a Graphic Design Technician from the Universidad del Valle de Atemajac and a Bachelor of Science in Communication from the TEC de Monterrey. She has several individual and collective expositions to her credit, both national and international. At the international level, her work has been presented in France and the United States.
+						</p>
+						<p>
+							Part of her work includes the Black Coffee Gallery and Milenio Art Collection, as well as private collections in Argentina, Canada, Spain, the United States, France, Japan and Mexico. She has participated in contests and biennials, exhibiting in various museums of the country. Her work is also within the collection of the Virtual Museum of Arts (MUVA) of Jalisco. Her artistic proposal can be appreciated in the murals of the Hospital San Juan de Dios of Zapopan and in the Hostel San Juan Grande of Guadalajara.
+						</p>
+						<p>
+							She has worked as an illustrator of children's books and stories, including Editorial Andrés Bello Mexicana, CONACULTA and UNESCO. Her paintings have contributed to the charitable work of associations and foundations such as: Board of the State Center of Cancerology of Colima, for the Black Coffe Gallery Foundation, San Juan de Dios, HumanaMente Pro Voz of mental health, Fundación Antón Martín, Alter Art + Society, Complices A.C. among others.
 						</p>
 					</div>					
 				</div>		

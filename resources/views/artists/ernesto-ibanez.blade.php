@@ -324,10 +324,8 @@
 					</div>
 				</div>
 
-
-
-				<div class="tab-pane" id="h2tab2">
-					<div class="row" style="padding:20px;">
+				<div class="tab-pane" id="h2tab2">					
+					<div class="row" style="padding:20px 50px 20px 50px;">
 						<p>
 							Ernesto Ibanez has worked with various materials such as: ceramics, cement, wood, metal, fiberglass, and resin.
 							Always aiming to take on new challenges and make full use of different materials. 

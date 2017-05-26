@@ -105,10 +105,8 @@
 					</div>					
 				</div>
 
-
-
-				<div class="tab-pane" id="h2tab2">
-					<div class="row" style="padding:20px;">
+				<div class="tab-pane" id="h2tab2">					
+					<div class="row" style="padding:20px 50px 20px 50px;">
 						<p>
 							At age 10, Pulse discovered graffiti as his first expression of plastic arts. Graffiti was a strong influence on his art. Pulse’s process not only comes from his school of art knowledge but also from his knowledge of street art.
  						</p>

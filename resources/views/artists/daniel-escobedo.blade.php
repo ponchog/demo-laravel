@@ -140,8 +140,8 @@
 					</div>	
 				</div>
 
-				<div class="tab-pane" id="h2tab2">
-					<div class="row" style="padding:20px;">						
+				<div class="tab-pane" id="h2tab2">					
+					<div class="row" style="padding:20px 50px 20px 50px;">
 						<p>
 							Daniel Escobedo is a professional painter from Guadalajara, Mexico. He holds a degree in Visual Arts from the University of Guadalajara. He works primarily on a personal concept with influences from classical art to the surrealist pop and lowbrow, his usual technique is oil on canvas. 
 						</p>

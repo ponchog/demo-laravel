@@ -89,10 +89,8 @@
 					</div>					
 				</div>
 
-
-
-				<div class="tab-pane" id="h2tab2">
-					<div class="row" style="padding:20px;">
+				<div class="tab-pane" id="h2tab2">					
+					<div class="row" style="padding:20px 50px 20px 50px;">
 						<p>
 							Carlos Torres is from Guadalajara, Jalisco, México. He graduated from the School of Plastic Arts of the University of Guadalajara with a B.F.A. He also completed technical studies of painting, acting, dance and music at the Preparatory CEDART-Jose Clemente Orosco. In 2002, he participated in the Cultural Hospice Cabanas receiving a diploma of Arts for his participation. He participated as an assistant in Juan Carlos Macias’ studio, and later with the collective engraving “The Tower of the Crickets” as printer’s apprentice. He also worked with Professor Conelio Garcia, in the printmaking field. 
 						</p>

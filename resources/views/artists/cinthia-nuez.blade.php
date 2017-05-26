@@ -215,11 +215,7 @@
 									</a>
 								</div>
 							</div>
-
-							
-						
 						</div>
-
 
 						<div class="space-bottom"></div>
 						<div class="row grid-space-20">	
@@ -232,19 +228,12 @@
 									</a>
 								</div>
 							</div>
-
-
-
-							
-							
 						</div>
 					</div>			
 				</div>
 
-
-
-				<div class="tab-pane" id="h2tab2">
-					<div class="row" style="padding:20px;">
+				<div class="tab-pane" id="h2tab2">					
+					<div class="row" style="padding:20px 50px 20px 50px;">
 						<p>
 							Cinthia Nuez is a Mexican professional artist, who specializes in drawing, painting
 							and Illustration. Since 2004, her work has taken part in several collectives and
@@ -256,7 +245,6 @@
 						<h3>Justification</h3>
 
 						<p>
-
 							“In my work, there is a constant search. I use collages as resource. My intention in
 							doing so are to provoke a sense of puzzle, change the original context of an object,
 							add other elements and combinations, as well as juxtapositions to the image. I also

@@ -99,7 +99,10 @@
 				<div class="tab-pane" id="h2tab2">
 					<div class="row" style="padding:20px 50px 20px 50px;">
 						<p>
-							...
+							Roberto Morleghem Rogers 1977 Guadalajara, Jalisco, Mexico. Self-taught Artist with more than 20 years in the plastic scene from Jaliso, he began to develop his taste for art from childhood, taking some courses of sculpture and engraving, to further fully enter the painting scene, his inclination to use a Variable range of tones in his work has been a trigger to this day.
+						</p>
+						<p>
+							With an indifference to the academy, he places his mind at a point lost within the micro to the macrocosm, which makes his paintings something that have no limits to him. He has exhibited around Mexico since the mid-90's; Among the most outstanding exhibits of his career are: Children lost in 2010 in the light rail gallery of Guadalajara, Inquietudes 2012 in the former convent of Carmen.
 						</p>
 					</div>					
 				</div>		

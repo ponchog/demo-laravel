@@ -98,8 +98,8 @@
 					</div>
 				</div>
 
-				<div class="tab-pane" id="h2tab2">
-					<div class="row" style="padding:20px;">
+				<div class="tab-pane" id="h2tab2">					
+					<div class="row" style="padding:20px 50px 20px 50px;">
 						<p>
 							Passion and strength are the characteristics that Villalpando considers define his work. Although, he knows that there are different opinions about him, he considers that the passion and strength he impregnates in his canvases is the reason why criticism is attracted to him.
 						</p>

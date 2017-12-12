@@ -45,10 +45,10 @@
 			<!-- main start -->
 			<!-- ================ -->
 			<div class="main col-md-12">
-				<h3 class="title"><strong>About Us</strong></h3>
-				<div class="separator-2"></div>
 				<div class="row">
 					<div class="col-md-6">
+						<h3 class="title"><strong>About Us</strong></h3>
+						<div class="separator-2"></div>
 						<p>Driven by a deep respect and passion for Latin American art, our founders established Arte International in 2015.
 						The concept was simple yet unique to create an agency that represents Latin American artists to promote their works 
 						to the art market in the United States. As a result, Arte International serves as a conduit for Latino artists and galleries.
@@ -60,9 +60,9 @@
 						<p>Our mission is to promote Latino art and their creativity in the United States. We also assist art galleries, corporate buyers, and art collectors who identify and appreciate contemporary Latino art. Arte International serves as a conduit for art galleries that will arrange sales and set up a business relationship with the dealer that is both equitable and profitable.</p>
 					</div>
 					<div class="col-md-6">
-						<img src="images/artists/ernesto/1.gif" alt="" style="max-height: 350px; display:inline;">
+						<img src="images/misc/curcuma_89x33x47_mix_media_and_nails.gif" alt="" style="max-height: 350px; display:inline;">
 					</div>
-				</div>				
+				</div>
 			</div>
 			<!-- main end -->
 
@@ -70,7 +70,7 @@
 	</div>
 	<br>
 	<br>
-	<br>	
+	<br>
 </section>
 <!-- main-container end -->
 

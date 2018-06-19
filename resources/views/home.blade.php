@@ -14,9 +14,9 @@
 			<div class="slider-banner-fullscreen">
 				<ul class="slides">
 					<!-- slide 1 start -->
-					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">
+					{{-- <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">
 						<img src="/images/misc/solo_exhibition.jpg" alt="exhibition" data-bgposition="center"  data-bgrepeat="no-repeat" data-bgfit="contain">
-					</li>
+					</li> --}}
 
 					<!-- slide 2 start -->
 					<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="">
